@@ -1,0 +1,1394 @@
+[
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "Albert and Lucy are married",
+  "answer": 0,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "Albert and Lucy might are considered weirdos by their friends",
+  "answer": 0,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "Albert and Lucy are divorced",
+  "answer": 1,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "Albert is brilliant",
+  "answer": 0,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "Lucy is brilliant",
+  "answer": 0,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "their friends call them shamy",
+  "answer": 0,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "their friends are much more intelligent than Albert and Lucy",
+  "answer": 1,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "Albert's friends are more or less as intelligent as him",
+  "answer": 1,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "Albert does not have any friends",
+  "answer": 1,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "Lucy is not so smart",
+  "answer": 1,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "brilliant people are sometimes considered weird by other people",
+  "answer": 0,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "the sky is blue",
+  "answer": 1,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "Albert is married to Lucy, however he doesn't really love her",
+  "answer": 1,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "not only is Albert married to Lucy, he also really loves her",
+  "answer": 0,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "Lucy really loves Albert, she is also married to him",
+  "answer": 0,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "Lucy truly loves Albert",
+  "answer": 0,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "the two of them really love each other",
+  "answer": 0,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "Albert and Lucy, the two scientists, truly love each other. they are married",
+  "answer": 0,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "Lucy does not love Albert, even though they are married",
+  "answer": 1,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "brilliant people are not considered eccentric, they are only considered brilliant by others",
+  "answer": 1,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "tomorrow, the sun will shine",
+  "answer": 1,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "hello",
+  "answer": 1,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "yes",
+  "answer": 1,
+  "contest": 0
+ },
+ {
+  "passage": "Albert and Lucy are married. they truly love each other. however, they are considered weirdos by their friends, who call the couple shamy.they are brilliant, and maybe that is why they are considered weird. many brilliant people are considered to be eccentric by the others. Albert and Lucy are scientists and they are much more intelligent than their friends.",
+  "question": "Albert and Lucy are married and they are also scientists. they are considered really brilliant, however their friends mock them calling them shamy because they appear weird to them",
+  "answer": 0,
+  "contest": 0
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "leonard and penny are a couple",
+  "answer": 0,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "leonard and penny love each other",
+  "answer": 0,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "leonard really loves penny",
+  "answer": 0,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "leonard is short and shy, while penny is tall and beautiful",
+  "answer": 0,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "leonard loves penny more than she loves him",
+  "answer": 0,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "leonard lost his mind for penny",
+  "answer": 0,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "penny is blonde",
+  "answer": 0,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "penny is a tall woman with blonde hair",
+  "answer": 0,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "it was love at first sight for leonard",
+  "answer": 0,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "penny lives in a house near leonard",
+  "answer": 0,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "leonard and penny first met when penny moved to her new house",
+  "answer": 0,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "penny is passionate",
+  "answer": 0,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "penny loves leonard",
+  "answer": 0,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "emanuele",
+  "answer": 1,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "penny really loves leonard, even though he mistreats her and doesn't really love her",
+  "answer": 1,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "penny loves leonard more than he loves her",
+  "answer": 1,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "penny is skinny, short and has orange eyes",
+  "answer": 1,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "penny is really smart, opposed to leonard",
+  "answer": 1,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "they are an obvious couple, like they are made for each other",
+  "answer": 1,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "bob does not really love lucy",
+  "answer": 1,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "penny and leonard are a couple. they are similar and have similar interest. that's why they get along with each other. they are similar both physically and mentally",
+  "answer": 1,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "penny does not really love leonard",
+  "answer": 1,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "penny is actually trying to take advantage of leonard",
+  "answer": 1,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "penny fell in love with leonard the moment she saw him",
+  "answer": 1,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "penny lives far away from leonard. that's why it's hard for them to maintain a relationship",
+  "answer": 1,
+  "contest": 1
+ },
+ {
+  "passage": "leonard and penny are an unlikely couple. leonard is smart, but very shy, short and insecure. penny is not so smart, but tall, blonde, beautiful and very passionate. they first met when penny moved to the house next door to leonard's house. from the first moment leonard saw her, he fell in love with her. leonard loves penny more than penny loves him. penny still loves him, but leonard is completely infatuated.",
+  "question": "penny is chinese",
+  "answer": 1,
+  "contest": 1
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "their only challenge is to find food. there is nothing dangerous like deadly animals or even a primal tribe, nothing",
+  "answer": 0,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "the people were in a boat",
+  "answer": 0,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "the boat was hit by a storm",
+  "answer": 0,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "the boat was eventually wrecked by the storm",
+  "answer": 0,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "the people that were in the boat cast away on an island",
+  "answer": 0,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "even though alone, they have tools ",
+  "answer": 1,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "they have nothing but their lives",
+  "answer": 0,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "they have troubles finding food",
+  "answer": 0,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "the food is their only challenge, they don't have to fight with any animal or tribe to survive",
+  "answer": 0,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "the island is not really desert: there is a tribe hiding inside!",
+  "answer": 1,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "they find a tribe and have to fight with them in order to survive. it's hard, but if they succeed, they can steal their food",
+  "answer": 1,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "the island is full of dangerous animals: from wolves to snaked and even bears. there is a grizzly bear hiding in a cave in the island",
+  "answer": 1,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "they don't really have to worry about food, since the island is full of resources",
+  "answer": 1,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "they are at least together and they can cooperate, since everyone cast on the same part of the island",
+  "answer": 1,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "they are scattered in different parts of the island",
+  "answer": 0,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "they have tools they managed to take when the storm arrived",
+  "answer": 1,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "the boat wrecked because of a bomb",
+  "answer": 1,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "they had many arguments in the boat, that's why they don't care anymore about their lives",
+  "answer": 1,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "a person in particular caused the shipwreck",
+  "answer": 1,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "the shipwreck was not caused by any person",
+  "answer": 0,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "the people in the boat had a fight before the storm",
+  "answer": 1,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "finding food was the main challenge in the island",
+  "answer": 0,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "as soon as the people cast away on the island, they gathered and formed a union in order to maximize their chances of survival",
+  "answer": 1,
+  "contest": 2
+ },
+ {
+  "passage": "some people were doing business in a boat, when suddenly there's a storm that wrecks the boat and casts everyone on a desert island. they are initially scattered in different parts of the island. they have nothing and have to build anything that they need from scratch.it's hard for them to find food, however there is nothing dangerous in the island: the only challenge for them is to find food.",
+  "question": "since they did not have any tools, they had to build everything that they need from scratch",
+  "answer": 0,
+  "contest": 2
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "exactly 4 people cast away on the island",
+  "answer": 1,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "they have advanced tools they brought from their homes, so surviving is pretty easy for them",
+  "answer": 1,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "exactly 3 people cast away on the island",
+  "answer": 0,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "there are more than 2 people on the island",
+  "answer": 0,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "they were cast away in the same spot of the island",
+  "answer": 1,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "in the beginning, they are scattered across the island",
+  "answer": 0,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "at first, they are scattered across the island. however, after some time and some exploration, they find each other",
+  "answer": 0,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "when they find each other, they do not start to fight. instead, they try to help each other so that it's easier for them to survive",
+  "answer": 0,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "they have a big fight as soon as they find each other",
+  "answer": 1,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "there are monkeys in the island",
+  "answer": 0,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "they were able to befriend a monkey",
+  "answer": 0,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "they manage to build tools",
+  "answer": 0,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "after they built more advanced tools, they are happy to live in the island and don't want to go back to civilization",
+  "answer": 0,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "in the end, they are happy where they are and do not try to escape the island",
+  "answer": 0,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "since there is no fight for survival, surviving is easy",
+  "answer": 1,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "there is not much food in the island",
+  "answer": 0,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animals is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "there are no dangerous animals in the island",
+  "answer": 0,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animals is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "there is a tribe that wants to kill them",
+  "answer": 1,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "in the beginning, they have access to very advanced tools brought from civilization",
+  "answer": 1,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "they do not have any advanced tools in the beginning",
+  "answer": 0,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "surviving is easy, since there is plenty of food and no really dangerous animal is there on the island",
+  "answer": 1,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "in the end, they are very happy to finally go back to civilization",
+  "answer": 1,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "the eventually come to fight with each other because of food",
+  "answer": 1,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "in the end, they populate the island with their kids and they all live happily ever after with their families",
+  "answer": 1,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "one of them catches a deadly virus and after weeks of fighting, he eventually gives up and dies",
+  "answer": 1,
+  "contest": 3
+ },
+ {
+  "passage": "3 people cast away on a desert island. they don't have any tools, so they build new ones with anything they find. they are initially scattered in different places of the island, but as they explore the island they eventually find each other. so, they start cooperating.although no deadly animal is present on the island, food is scarce, so surviving is challenging. they even managed to become friends with monkeys. after some time, they build more advanced tools and they are actually happy to be in that island and don't want to look back.",
+  "question": "there are two men and one woman, the men fight with each other in the hope of mating with the woman",
+  "answer": 1,
+  "contest": 3
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "there are 3 friends involved in this story",
+  "answer": 1,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "there are only two friends involved in this story",
+  "answer": 0,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "the two of them are not really friends. they secretly hate each other",
+  "answer": 1,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "they are actually friends",
+  "answer": 0,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "the two people who are at the pier are actually friends",
+  "answer": 0,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "the two of them chose to hang out by the pier",
+  "answer": 1,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "something's off at the restaurant",
+  "answer": 1,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "something is just not right at the restaurant, and the two friends can feel it",
+  "answer": 1,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "someone has ordered seagull meat",
+  "answer": 0,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "someone wanted to eat seagull meat",
+  "answer": 0,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "the waiter behaves normally",
+  "answer": 0,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "they were at the pier because the were rescued after they were cast away on the island",
+  "answer": 0,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "a sailor brings them there",
+  "answer": 0,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "the two friends have a hard time deciding what to order",
+  "answer": 1,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "something strange happens at the restaurant",
+  "answer": 0,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "everything that happens at the restaurant is ordinary",
+  "answer": 0,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "someone orders seagull meat at the restaurant",
+  "answer": 0,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "the waiter doesn't actually bring them what they ordered",
+  "answer": 1,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "they did not have plans to be here",
+  "answer": 0,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "they decided to go there because they planned to do something",
+  "answer": 1,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "they are just hanging out and chilling",
+  "answer": 1,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "they plan to do something specific and that's why they are at the pier",
+  "answer": 1,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "they have been saved by someone else",
+  "answer": 0,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "they did not choose to go to that specific restaurant. they just happened to be there and just went there, randomly",
+  "answer": 0,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "even though everything looks normal, there is something that is just not right, but they don't know what",
+  "answer": 1,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "it was night",
+  "answer": 1,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "it all happened in christmas",
+  "answer": 1,
+  "contest": 4
+ },
+ {
+  "passage": "two friends are at the pier. they are there by chance, they did not actually plan to be there. they have been saved by a sailor after they cast away on a desert island. they randomly go to a restaurant. everything seems normal. they order food and the waiter brings them what they ordered. the waiter behaves normally. nothing is strange, everything is ordinary at the restaurant. one of them ordered seagull meat.",
+  "question": "they are discussing a surprise birthday party for their friend",
+  "answer": 1,
+  "contest": 4
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel was riding a bike",
+  "answer": 0,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "the road was downhill when daniel fell",
+  "answer": 0,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel can ride a bike",
+  "answer": 0,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel managed to survive the accident",
+  "answer": 0,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel survived the accident",
+  "answer": 0,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel is alive and well, he just has some bruises and a broken arm",
+  "answer": 0,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel broke his arm",
+  "answer": 0,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel is injured",
+  "answer": 0,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "a car hit daniel while he was riding a bike",
+  "answer": 1,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel fell on the ground",
+  "answer": 0,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel is at the hospital",
+  "answer": 0,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel is recovering his broken arm",
+  "answer": 0,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel got bruises on his hands",
+  "answer": 0,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "the bike lost grip",
+  "answer": 0,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "the front tyre lost grip",
+  "answer": 0,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "the bike did not have brakes",
+  "answer": 1,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel was driving his car",
+  "answer": 1,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "once upon a time, lucy was the queen of the big reign. she reigned in peace, all the citizens were happy and they prospered for more than fifty years",
+  "answer": 1,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel broke his leg",
+  "answer": 1,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel hit his head while riding a bike, now he is at the hospital in critical conditions",
+  "answer": 1,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel's conditions are critical",
+  "answer": 1,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel lost control of the bike because a truck was driving into him and he tried to avoid it",
+  "answer": 1,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel was not harmed in his accident",
+  "answer": 1,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel is already fully recovered",
+  "answer": 1,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel was riding a motorcycle",
+  "answer": 1,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel died shortly after the accident. the ambulance tried to revive him with no success",
+  "answer": 1,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel is married to matthew, they are homosexuals",
+  "answer": 1,
+  "contest": 5
+ },
+ {
+  "passage": "daniel was riding a bike. he was going downhill when suddenly the front tyre loses grip and daniel loses control. he falls. he tries to cover his face with his hands, both the hands got bruised and with one hand he hit the ground forcefully causing the arm bone to break.now he is at the hospital, he is trying to recover",
+  "question": "daniel fell while climbing the stairs",
+  "answer": 1,
+  "contest": 5
+ },
+ {
+  "passage": "Sophie, a curious explorer, set off on an adventure through the dense jungle. Excitement filled the air as she encountered vibrant creatures and exotic plants. But amidst the beauty, a mysterious artifact caught her eye. As she reached for it, the ground trembled, and ancient ruins emerged from the earth. Sophie's expedition had unveiled a forgotten civilization, unraveling secrets lost in time.",
+  "question": "sophie is curious",
+  "answer": 0,
+  "contest": 6
+ },
+ {
+  "passage": "Sophie, a curious explorer, set off on an adventure through the dense jungle. Excitement filled the air as she encountered vibrant creatures and exotic plants. But amidst the beauty, a mysterious artifact caught her eye. As she reached for it, the ground trembled, and ancient ruins emerged from the earth. Sophie's expedition had unveiled a forgotten civilization, unraveling secrets lost in time.",
+  "question": "sophie is an explorer",
+  "answer": 0,
+  "contest": 6
+ },
+ {
+  "passage": "Sophie, a curious explorer, set off on an adventure through the dense jungle. Excitement filled the air as she encountered vibrant creatures and exotic plants. But amidst the beauty, a mysterious artifact caught her eye. As she reached for it, the ground trembled, and ancient ruins emerged from the earth. Sophie's expedition had unveiled a forgotten civilization, unraveling secrets lost in time.",
+  "question": "sophie is a curious explorer",
+  "answer": 0,
+  "contest": 6
+ },
+ {
+  "passage": "Sophie, a curious explorer, set off on an adventure through the dense jungle. Excitement filled the air as she encountered vibrant creatures and exotic plants. But amidst the beauty, a mysterious artifact caught her eye. As she reached for it, the ground trembled, and ancient ruins emerged from the earth. Sophie's expedition had unveiled a forgotten civilization, unraveling secrets lost in time.",
+  "question": "sophie set off of an adventure through the jungle",
+  "answer": 0,
+  "contest": 6
+ },
+ {
+  "passage": "Sophie, a curious explorer, set off on an adventure through the dense jungle. Excitement filled the air as she encountered vibrant creatures and exotic plants. But amidst the beauty, a mysterious artifact caught her eye. As she reached for it, the ground trembled, and ancient ruins emerged from the earth. Sophie's expedition had unveiled a forgotten civilization, unraveling secrets lost in time.",
+  "question": "sophie encountered creatures and plants in the adventure",
+  "answer": 0,
+  "contest": 6
+ },
+ {
+  "passage": "Sophie, a curious explorer, set off on an adventure through the dense jungle. Excitement filled the air as she encountered vibrant creatures and exotic plants. But amidst the beauty, a mysterious artifact caught her eye. As she reached for it, the ground trembled, and ancient ruins emerged from the earth. Sophie's expedition had unveiled a forgotten civilization, unraveling secrets lost in time.",
+  "question": "there was a mysterious artifact that she tried to reach for",
+  "answer": 0,
+  "contest": 6
+ },
+ {
+  "passage": "Sophie, a curious explorer, set off on an adventure through the dense jungle. Excitement filled the air as she encountered vibrant creatures and exotic plants. But amidst the beauty, a mysterious artifact caught her eye. As she reached for it, the ground trembled, and ancient ruins emerged from the earth. Sophie's expedition had unveiled a forgotten civilization, unraveling secrets lost in time.",
+  "question": "sophie found a forgotten civilization",
+  "answer": 0,
+  "contest": 6
+ },
+ {
+  "passage": "Sophie, a curious explorer, set off on an adventure through the dense jungle. Excitement filled the air as she encountered vibrant creatures and exotic plants. But amidst the beauty, a mysterious artifact caught her eye. As she reached for it, the ground trembled, and ancient ruins emerged from the earth. Sophie's expedition had unveiled a forgotten civilization, unraveling secrets lost in time.",
+  "question": "sophie is not curious",
+  "answer": 1,
+  "contest": 6
+ },
+ {
+  "passage": "Sophie, a curious explorer, set off on an adventure through the dense jungle. Excitement filled the air as she encountered vibrant creatures and exotic plants. But amidst the beauty, a mysterious artifact caught her eye. As she reached for it, the ground trembled, and ancient ruins emerged from the earth. Sophie's expedition had unveiled a forgotten civilization, unraveling secrets lost in time.",
+  "question": "sophie is not an explorer",
+  "answer": 1,
+  "contest": 6
+ },
+ {
+  "passage": "Sophie, a curious explorer, set off on an adventure through the dense jungle. Excitement filled the air as she encountered vibrant creatures and exotic plants. But amidst the beauty, a mysterious artifact caught her eye. As she reached for it, the ground trembled, and ancient ruins emerged from the earth. Sophie's expedition had unveiled a forgotten civilization, unraveling secrets lost in time.",
+  "question": "sophie did not have any ancounter",
+  "answer": 1,
+  "contest": 6
+ },
+ {
+  "passage": "Sophie, a curious explorer, set off on an adventure through the dense jungle. Excitement filled the air as she encountered vibrant creatures and exotic plants. But amidst the beauty, a mysterious artifact caught her eye. As she reached for it, the ground trembled, and ancient ruins emerged from the earth. Sophie's expedition had unveiled a forgotten civilization, unraveling secrets lost in time.",
+  "question": "sophie set off of an adventure through the icy environment of the north pole",
+  "answer": 1,
+  "contest": 6
+ },
+ {
+  "passage": "Sophie, a curious explorer, set off on an adventure through the dense jungle. Excitement filled the air as she encountered vibrant creatures and exotic plants. But amidst the beauty, a mysterious artifact caught her eye. As she reached for it, the ground trembled, and ancient ruins emerged from the earth. Sophie's expedition had unveiled a forgotten civilization, unraveling secrets lost in time.",
+  "question": "sophie died as soon as she reached for the artifact",
+  "answer": 1,
+  "contest": 6
+ },
+ {
+  "passage": "Sophie, a curious explorer, set off on an adventure through the dense jungle. Excitement filled the air as she encountered vibrant creatures and exotic plants. But amidst the beauty, a mysterious artifact caught her eye. As she reached for it, the ground trembled, and ancient ruins emerged from the earth. Sophie's expedition had unveiled a forgotten civilization, unraveling secrets lost in time.",
+  "question": "sophie fought for her life against dangerous animals in the jungle",
+  "answer": 1,
+  "contest": 6
+ },
+ {
+  "passage": "Sophie, a curious explorer, set off on an adventure through the dense jungle. Excitement filled the air as she encountered vibrant creatures and exotic plants. But amidst the beauty, a mysterious artifact caught her eye. As she reached for it, the ground trembled, and ancient ruins emerged from the earth. Sophie's expedition had unveiled a forgotten civilization, unraveling secrets lost in time.",
+  "question": "sophie unveiled nothing during the expedition",
+  "answer": 1,
+  "contest": 6
+ },
+ {
+  "passage": "In the quaint town of Willowbrook, a young artist named Emma discovered an old, dusty canvas in her attic. As she began to paint, her strokes seemed to come alive, revealing a magical portal. Curiosity overwhelmed her, and she stepped through, finding herself in a breathtaking realm of colors and imagination. With newfound inspiration, Emma embraced the enchanting world, sharing its wonders with the town through her extraordinary art, leaving an everlasting mark on hearts and minds alike.",
+  "question": "emma is a young artist",
+  "answer": 0,
+  "contest": 7
+ },
+ {
+  "passage": "In the quaint town of Willowbrook, a young artist named Emma discovered an old, dusty canvas in her attic. As she began to paint, her strokes seemed to come alive, revealing a magical portal. Curiosity overwhelmed her, and she stepped through, finding herself in a breathtaking realm of colors and imagination. With newfound inspiration, Emma embraced the enchanting world, sharing its wonders with the town through her extraordinary art, leaving an everlasting mark on hearts and minds alike.",
+  "question": "emma is young",
+  "answer": 0,
+  "contest": 7
+ },
+ {
+  "passage": "In the quaint town of Willowbrook, a young artist named Emma discovered an old, dusty canvas in her attic. As she began to paint, her strokes seemed to come alive, revealing a magical portal. Curiosity overwhelmed her, and she stepped through, finding herself in a breathtaking realm of colors and imagination. With newfound inspiration, Emma embraced the enchanting world, sharing its wonders with the town through her extraordinary art, leaving an everlasting mark on hearts and minds alike.",
+  "question": "emma is an artist",
+  "answer": 0,
+  "contest": 7
+ },
+ {
+  "passage": "In the quaint town of Willowbrook, a young artist named Emma discovered an old, dusty canvas in her attic. As she began to paint, her strokes seemed to come alive, revealing a magical portal. Curiosity overwhelmed her, and she stepped through, finding herself in a breathtaking realm of colors and imagination. With newfound inspiration, Emma embraced the enchanting world, sharing its wonders with the town through her extraordinary art, leaving an everlasting mark on hearts and minds alike.",
+  "question": "emma discovered something in her attic",
+  "answer": 0,
+  "contest": 7
+ },
+ {
+  "passage": "In the quaint town of Willowbrook, a young artist named Emma discovered an old, dusty canvas in her attic. As she began to paint, her strokes seemed to come alive, revealing a magical portal. Curiosity overwhelmed her, and she stepped through, finding herself in a breathtaking realm of colors and imagination. With newfound inspiration, Emma embraced the enchanting world, sharing its wonders with the town through her extraordinary art, leaving an everlasting mark on hearts and minds alike.",
+  "question": "emma is and old grumpy woman",
+  "answer": 1,
+  "contest": 7
+ },
+ {
+  "passage": "In the quaint town of Willowbrook, a young artist named Emma discovered an old, dusty canvas in her attic. As she began to paint, her strokes seemed to come alive, revealing a magical portal. Curiosity overwhelmed her, and she stepped through, finding herself in a breathtaking realm of colors and imagination. With newfound inspiration, Emma embraced the enchanting world, sharing its wonders with the town through her extraordinary art, leaving an everlasting mark on hearts and minds alike.",
+  "question": "emma is a black woman",
+  "answer": 1,
+  "contest": 7
+ },
+ {
+  "passage": "In the quaint town of Willowbrook, a young artist named Emma discovered an old, dusty canvas in her attic. As she began to paint, her strokes seemed to come alive, revealing a magical portal. Curiosity overwhelmed her, and she stepped through, finding herself in a breathtaking realm of colors and imagination. With newfound inspiration, Emma embraced the enchanting world, sharing its wonders with the town through her extraordinary art, leaving an everlasting mark on hearts and minds alike.",
+  "question": "emma found nothing in her attic",
+  "answer": 1,
+  "contest": 7
+ },
+ {
+  "passage": "In the quaint town of Willowbrook, a young artist named Emma discovered an old, dusty canvas in her attic. As she began to paint, her strokes seemed to come alive, revealing a magical portal. Curiosity overwhelmed her, and she stepped through, finding herself in a breathtaking realm of colors and imagination. With newfound inspiration, Emma embraced the enchanting world, sharing its wonders with the town through her extraordinary art, leaving an everlasting mark on hearts and minds alike.",
+  "question": "emma is not actually a woman. it's a dog",
+  "answer": 1,
+  "contest": 7
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "mark had toast for breakfast",
+  "answer": 0,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "mark did ordinary tasks at the office",
+  "answer": 0,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "mark had a ham sandwich for lunch",
+  "answer": 0,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "mark went to the gym after work",
+  "answer": 0,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "while mark was having dinner, the tv was on",
+  "answer": 0,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "while mark was having dinner, a tv show player in the background",
+  "answer": 0,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "mark had an ordinary day where nothing unusual happened",
+  "answer": 0,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "mark had a monotone day",
+  "answer": 0,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "it was an uneventful day for mark",
+  "answer": 0,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "mark did not wake up on monday, because he was dead",
+  "answer": 1,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "mark had pizza for breakfast",
+  "answer": 1,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "mark did something exciting at work",
+  "answer": 1,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "something strange and unusual happened at work for mark",
+  "answer": 1,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "mark had a strange encounter while going to the gym",
+  "answer": 1,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "mark had a sandwich with cheese and speck for lunch",
+  "answer": 1,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "mark listened to the radio while having dinner",
+  "answer": 1,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "mark went to his girlfriend's house after work",
+  "answer": 1,
+  "contest": 8
+ },
+ {
+  "passage": "On a routine Monday morning, Mark woke up, had toast for breakfast, and commuted to work. The day passed with mundane office tasks. At lunch, he had a ham sandwich. The afternoon dragged on. After work, he went to the gym, then home to microwave dinner. An ordinary TV show played in the background. Eventually, Mark retired to bed, ready for another uneventful day.",
+  "question": "mark had an exciting day",
+  "answer": 1,
+  "contest": 8
+ },
+ {
+  "passage": "In a sleepy village, Sarah lived a monotonous life. Each day blended into the next: waking up, tending her garden, and preparing meals. The seasons changed subtly, and the villagers' conversations remained predictable. She yearned for a change, a spark in the routine. One day, a stranger arrived, and Sarah's life took an unexpected turn, introducing her to new possibilities and breaking the cycle of monotony.",
+  "question": "sarah has an exciting life",
+  "answer": 1,
+  "contest": 9
+ },
+ {
+  "passage": "In a sleepy village, Sarah lived a monotonous life. Each day blended into the next: waking up, tending her garden, and preparing meals. The seasons changed subtly, and the villagers' conversations remained predictable. She yearned for a change, a spark in the routine. One day, a stranger arrived, and Sarah's life took an unexpected turn, introducing her to new possibilities and breaking the cycle of monotony.",
+  "question": "sarah does not have an exciting life",
+  "answer": 0,
+  "contest": 9
+ },
+ {
+  "passage": "In a sleepy village, Sarah lived a monotonous life. Each day blended into the next: waking up, tending her garden, and preparing meals. The seasons changed subtly, and the villagers' conversations remained predictable. She yearned for a change, a spark in the routine. One day, a stranger arrived, and Sarah's life took an unexpected turn, introducing her to new possibilities and breaking the cycle of monotony.",
+  "question": "sarah lives an ordinary life",
+  "answer": 0,
+  "contest": 9
+ },
+ {
+  "passage": "In a sleepy village, Sarah lived a monotonous life. Each day blended into the next: waking up, tending her garden, and preparing meals. The seasons changed subtly, and the villagers' conversations remained predictable. She yearned for a change, a spark in the routine. One day, a stranger arrived, and Sarah's life took an unexpected turn, introducing her to new possibilities and breaking the cycle of monotony.",
+  "question": "sarah lives a monotous life",
+  "answer": 0,
+  "contest": 9
+ },
+ {
+  "passage": "In a sleepy village, Sarah lived a monotonous life. Each day blended into the next: waking up, tending her garden, and preparing meals. The seasons changed subtly, and the villagers' conversations remained predictable. She yearned for a change, a spark in the routine. One day, a stranger arrived, and Sarah's life took an unexpected turn, introducing her to new possibilities and breaking the cycle of monotony.",
+  "question": "sarah does not live a particularly exciting life",
+  "answer": 0,
+  "contest": 9
+ },
+ {
+  "passage": "In a sleepy village, Sarah lived a monotonous life. Each day blended into the next: waking up, tending her garden, and preparing meals. The seasons changed subtly, and the villagers' conversations remained predictable. She yearned for a change, a spark in the routine. One day, a stranger arrived, and Sarah's life took an unexpected turn, introducing her to new possibilities and breaking the cycle of monotony.",
+  "question": "sarah's life is not so exciting",
+  "answer": 0,
+  "contest": 9
+ },
+ {
+  "passage": "In a sleepy village, Sarah lived a monotonous life. Each day blended into the next: waking up, tending her garden, and preparing meals. The seasons changed subtly, and the villagers' conversations remained predictable. She yearned for a change, a spark in the routine. One day, a stranger arrived, and Sarah's life took an unexpected turn, introducing her to new possibilities and breaking the cycle of monotony.",
+  "question": "sarah met a stranger that allowed her to finally break out of her monotony",
+  "answer": 0,
+  "contest": 9
+ },
+ {
+  "passage": "In a sleepy village, Sarah lived a monotonous life. Each day blended into the next: waking up, tending her garden, and preparing meals. The seasons changed subtly, and the villagers' conversations remained predictable. She yearned for a change, a spark in the routine. One day, a stranger arrived, and Sarah's life took an unexpected turn, introducing her to new possibilities and breaking the cycle of monotony.",
+  "question": "sarah is a cat",
+  "answer": 1,
+  "contest": 9
+ },
+ {
+  "passage": "In a sleepy village, Sarah lived a monotonous life. Each day blended into the next: waking up, tending her garden, and preparing meals. The seasons changed subtly, and the villagers' conversations remained predictable. She yearned for a change, a spark in the routine. One day, a stranger arrived, and Sarah's life took an unexpected turn, introducing her to new possibilities and breaking the cycle of monotony.",
+  "question": "sarah is a person",
+  "answer": 0,
+  "contest": 9
+ },
+ {
+  "passage": "In a sleepy village, Sarah lived a monotonous life. Each day blended into the next: waking up, tending her garden, and preparing meals. The seasons changed subtly, and the villagers' conversations remained predictable. She yearned for a change, a spark in the routine. One day, a stranger arrived, and Sarah's life took an unexpected turn, introducing her to new possibilities and breaking the cycle of monotony.",
+  "question": "sarah has troubles providing her family with meals",
+  "answer": 1,
+  "contest": 9
+ },
+ {
+  "passage": "In a sleepy village, Sarah lived a monotonous life. Each day blended into the next: waking up, tending her garden, and preparing meals. The seasons changed subtly, and the villagers' conversations remained predictable. She yearned for a change, a spark in the routine. One day, a stranger arrived, and Sarah's life took an unexpected turn, introducing her to new possibilities and breaking the cycle of monotony.",
+  "question": "sarah goes to the gym everyday",
+  "answer": 1,
+  "contest": 9
+ },
+ {
+  "passage": "In a sleepy village, Sarah lived a monotonous life. Each day blended into the next: waking up, tending her garden, and preparing meals. The seasons changed subtly, and the villagers' conversations remained predictable. She yearned for a change, a spark in the routine. One day, a stranger arrived, and Sarah's life took an unexpected turn, introducing her to new possibilities and breaking the cycle of monotony.",
+  "question": "sarah likes to run one thousand meters everyday",
+  "answer": 1,
+  "contest": 9
+ },
+ {
+  "passage": "In a sleepy village, Sarah lived a monotonous life. Each day blended into the next: waking up, tending her garden, and preparing meals. The seasons changed subtly, and the villagers' conversations remained predictable. She yearned for a change, a spark in the routine. One day, a stranger arrived, and Sarah's life took an unexpected turn, introducing her to new possibilities and breaking the cycle of monotony.",
+  "question": "sarah is a fat lady",
+  "answer": 1,
+  "contest": 9
+ },
+ {
+  "passage": "In a sleepy village, Sarah lived a monotonous life. Each day blended into the next: waking up, tending her garden, and preparing meals. The seasons changed subtly, and the villagers' conversations remained predictable. She yearned for a change, a spark in the routine. One day, a stranger arrived, and Sarah's life took an unexpected turn, introducing her to new possibilities and breaking the cycle of monotony.",
+  "question": "sarah is happy about her husband",
+  "answer": 1,
+  "contest": 9
+ },
+ {
+  "passage": "tom suddenly threw up",
+  "question": "lucy died in the shipwreck",
+  "answer": 1,
+  "contest": 11
+ },
+ {
+  "passage": "lucy died after the shipwreck",
+  "question": "lucy died in the shipwreck",
+  "answer": 0,
+  "contest": 11
+ },
+ {
+  "passage": "tom died in the shipwreck",
+  "question": "lucy died in the shipwreck",
+  "answer": 1,
+  "contest": 11
+ },
+ {
+  "passage": "bob died in the shipwreck",
+  "question": "lucy died in the shipwreck",
+  "answer": 1,
+  "contest": 11
+ },
+ {
+  "passage": "there was a violent storm that wrecked the ship. because of that, lucy died",
+  "question": "lucy died in the shipwreck",
+  "answer": 0,
+  "contest": 11
+ },
+ {
+  "passage": "a violent storm scattered the boat. the three of them fought for their lives. the others could make it, but lucy unfortunately could not",
+  "question": "lucy died in the shipwreck",
+  "answer": 0,
+  "contest": 11
+ },
+ {
+  "passage": "a storm caused the ship to wreck, causing lucy's death",
+  "question": "lucy died in the shipwreck",
+  "answer": 0,
+  "contest": 11
+ },
+ {
+  "passage": "the storm and the following shipwreck resulted fatal for lucy",
+  "question": "lucy died in the shipwreck",
+  "answer": 0,
+  "contest": 11
+ },
+ {
+  "passage": "a violent storm falls upon the boat. the damage to the boat is severe, the people onboard jump and try to swim for their lives. lucy was one of the few fortunates to make it all alive",
+  "question": "lucy died in the shipwreck",
+  "answer": 1,
+  "contest": 11
+ },
+ {
+  "passage": "a storm fell upon the boat. luckily, there were no deaths",
+  "question": "lucy died in the shipwreck",
+  "answer": 1,
+  "contest": 11
+ },
+ {
+  "passage": "bob can't see",
+  "question": "bob is blind",
+  "answer": 0,
+  "contest": 12
+ },
+ {
+  "passage": "bob has a physical disability",
+  "question": "bob is blind",
+  "answer": 0,
+  "contest": 12
+ },
+ {
+  "passage": "bob is affected by blindness",
+  "question": "bob is blind",
+  "answer": 0,
+  "contest": 12
+ },
+ {
+  "passage": "tom is blind",
+  "question": "bob is blind",
+  "answer": 1,
+  "contest": 12
+ },
+ {
+  "passage": "bob is smart",
+  "question": "bob is blind",
+  "answer": 1,
+  "contest": 12
+ },
+ {
+  "passage": "bob is rich",
+  "question": "bob is blind",
+  "answer": 1,
+  "contest": 12
+ },
+ {
+  "passage": "as soon as bob took a bite of the seagull, he realized what he did: what he ate on the island was not seagull, but lucy",
+  "question": "bob realized he ate lucy on the island",
+  "answer": 0,
+  "contest": 13
+ },
+ {
+  "passage": "bob now understand that on the island he ate lucy",
+  "question": "bob realized he ate lucy on the island",
+  "answer": 0,
+  "contest": 13
+ },
+ {
+  "passage": "bob now understands. he thought he ate seagull on the island, but the taste is just not the same: what he ate on the island must have been lucy",
+  "question": "bob realized he ate lucy on the island",
+  "answer": 0,
+  "contest": 13
+ },
+ {
+  "passage": "bob did not like the seagull",
+  "question": "bob realized he ate lucy on the island",
+  "answer": 1,
+  "contest": 13
+ },
+ {
+  "passage": "bob wanted get revenge",
+  "question": "bob realized he ate lucy on the island",
+  "answer": 1,
+  "contest": 13
+ },
+ {
+  "passage": "since the seagull was bad cooked, bob did not like it",
+  "question": "bob realized he ate lucy on the island",
+  "answer": 1,
+  "contest": 13
+ }
+]

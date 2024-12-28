@@ -1,0 +1,702 @@
+[
+  {
+    "passage": "Albert Dave and lucy are friends. they are completely normal people. Albert and lucy are happily married. Albert and lucy are loyal and really love each other, their love is true. Albert loves lucy. lucy loves Albert. Albert Dave and lucy are middle aged. Albert is blind. Albert is not religious. the story is set in the early 900's. the story is completely plausible and does not involve anything not realistic.",
+    "question": "Albert and Dave are friends",
+    "answer": 0,
+    "contest": 1,
+    "idx": 0
+  },
+  {
+    "passage": "Albert Dave and lucy are friends. they are completely normal people. Albert and lucy are happily married. Albert and lucy are loyal and really love each other, their love is true. Albert loves lucy. lucy loves Albert. Albert Dave and lucy are middle aged. Albert is blind. Albert is not religious. the story is set in the early 900's. the story is completely plausible and does not involve anything not realistic.",
+    "question": "Albert was married",
+    "answer": 0,
+    "contest": 1,
+    "idx": 1
+  },
+  {
+    "passage": "Albert Dave and lucy are friends. they are completely normal people. Albert and lucy are happily married. Albert and lucy are loyal and really love each other, their love is true. Albert loves lucy. lucy loves Albert. Albert Dave and lucy are middle aged. Albert is blind. Albert is not religious. the story is set in the early 900's. the story is completely plausible and does not involve anything not realistic.",
+    "question": "the three of them were happy",
+    "answer": 0,
+    "contest": 1,
+    "idx": 3
+  },
+  {
+    "passage": "Albert Dave and lucy are friends. they are completely normal people. Albert and lucy are happily married. Albert and lucy are loyal and really love each other, their love is true. Albert loves lucy. lucy loves Albert. Albert Dave and lucy are middle aged. Albert is blind. Albert is not religious. the story is set in the early 900's. the story is completely plausible and does not involve anything not realistic.",
+    "question": "the story is set in the modern times",
+    "answer": 0,
+    "contest": 1,
+    "idx": 28
+  },
+  {
+    "passage": "Albert Dave and lucy are friends. they are completely normal people. Albert and lucy are happily married. Albert and lucy are loyal and really love each other, their love is true. Albert loves lucy. lucy loves Albert. Albert Dave and lucy are middle aged. Albert is blind. Albert is not religious. the story is set in the early 900's. the story is completely plausible and does not involve anything not realistic.",
+    "question": "the story is plausible and reasonable",
+    "answer": 0,
+    "contest": 1,
+    "idx": 32
+  },
+  {
+    "passage": "Albert Dave and lucy are friends. they are completely normal people. Albert and lucy are happily married. Albert and lucy are loyal and really love each other, their love is true. Albert loves lucy. lucy loves Albert. Albert Dave and lucy are middle aged. Albert is blind. Albert is not religious. the story is set in the early 900's. the story is completely plausible and does not involve anything not realistic.",
+    "question": "there are more than 2 characters involved in the story",
+    "answer": 0,
+    "contest": 1,
+    "idx": 79
+  },
+  {
+    "passage": "Albert Dave and lucy are friends. they are completely normal people. Albert and lucy are happily married. Albert and lucy are loyal and really love each other, their love is true. Albert loves lucy. lucy loves Albert. Albert Dave and lucy are middle aged. Albert is blind. Albert is not religious. the story is set in the early 900's. the story is completely plausible and does not involve anything not realistic.",
+    "question": "there are only 3 characters involved in the story",
+    "answer": 0,
+    "contest": 1,
+    "idx": 80
+  },
+  {
+    "passage": "Albert Dave and lucy are friends. they are completely normal people. Albert and lucy are happily married. Albert and lucy are loyal and really love each other, their love is true. Albert loves lucy. lucy loves Albert. Albert Dave and lucy are middle aged. Albert is blind. Albert is not religious. the story is set in the early 900's. the story is completely plausible and does not involve anything not realistic.",
+    "question": "lucy and Albert did not betray each other",
+    "answer": 0,
+    "contest": 1,
+    "idx": 96
+  },
+  {
+    "passage": "Albert Dave and lucy are friends. they are completely normal people. Albert and lucy are happily married. Albert and lucy are loyal and really love each other, their love is true. Albert loves lucy. lucy loves Albert. Albert Dave and lucy are middle aged. Albert is blind. Albert is not religious. the story is set in the early 900's. the story is completely plausible and does not involve anything not realistic.",
+    "question": "the story does not involve fairies",
+    "answer": 0,
+    "contest": 1,
+    "idx": 97
+  },
+  {
+    "passage": "Albert Dave and lucy are friends. they are completely normal people. Albert and lucy are happily married. Albert and lucy are loyal and really love each other, their love is true. Albert loves lucy. lucy loves Albert. Albert Dave and lucy are middle aged. Albert is blind. Albert is not religious. the story is set in the early 900's. the story is completely plausible and does not involve anything not realistic.",
+    "question": "Albert does not believe in god",
+    "answer": 0,
+    "contest": 1,
+    "idx": 106
+  },
+  {
+    "passage": "Albert Dave and lucy are friends. they are completely normal people. Albert and lucy are happily married. Albert and lucy are loyal and really love each other, their love is true. Albert loves lucy. lucy loves Albert. Albert Dave and lucy are middle aged. Albert is blind. Albert is not religious. the story is set in the early 900's. the story is completely plausible and does not involve anything not realistic.",
+    "question": "Albert does not have any religious belief",
+    "answer": 0,
+    "contest": 1,
+    "idx": 107
+  },
+  {
+    "passage": "Albert Dave and lucy are friends. they are completely normal people. Albert and lucy are happily married. Albert and lucy are loyal and really love each other, their love is true. Albert loves lucy. lucy loves Albert. Albert Dave and lucy are middle aged. Albert is blind. Albert is not religious. the story is set in the early 900's. the story is completely plausible and does not involve anything not realistic.",
+    "question": "the story is actually believable",
+    "answer": 0,
+    "contest": 1,
+    "idx": 208
+  },
+  {
+    "passage": "Albert Dave and lucy are friends. they are completely normal people. Albert and lucy are happily married. Albert and lucy are loyal and really love each other, their love is true. Albert loves lucy. lucy loves Albert. Albert Dave and lucy are middle aged. Albert is blind. Albert is not religious. the story is set in the early 900's. the story is completely plausible and does not involve anything not realistic.",
+    "question": "Albert and his wife love each other",
+    "answer": 0,
+    "contest": 1,
+    "idx": 209
+  },
+  {
+    "passage": "Albert Dave and lucy are friends. they are completely normal people. Albert and lucy are happily married. Albert and lucy are loyal and really love each other, their love is true. Albert loves lucy. lucy loves Albert. Albert Dave and lucy are middle aged. Albert is blind. Albert is not religious. the story is set in the early 900's. the story is completely plausible and does not involve anything not realistic.",
+    "question": "Albert is engaged",
+    "answer": 0,
+    "contest": 1,
+    "idx": 158
+  },
+  {
+    "passage": "Albert Dave and lucy are friends. they are completely normal people. Albert and lucy are happily married. Albert and lucy are loyal and really love each other, their love is true. Albert loves lucy. lucy loves Albert. Albert Dave and lucy are middle aged. Albert is blind. Albert is not religious. the story is set in the early 900's. the story is completely plausible and does not involve anything not realistic.",
+    "question": "the story makes sense",
+    "answer": 0,
+    "contest": 1,
+    "idx": 162
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "there are only Albert and Dave at the pier",
+    "answer": 0,
+    "contest": 2,
+    "idx": 7
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "there are only Albert and Dave at the pier",
+    "answer": 0,
+    "contest": 2,
+    "idx": 13
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert killed himself because eating the seagull made him realize something",
+    "answer": 0,
+    "contest": 2,
+    "idx": 18
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "they happened to be at the pier",
+    "answer": 0,
+    "contest": 2,
+    "idx": 20
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "something happened that made them be at the pier",
+    "answer": 0,
+    "contest": 2,
+    "idx": 22
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "they were shocked",
+    "answer": 0,
+    "contest": 2,
+    "idx": 24
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "they were sad",
+    "answer": 0,
+    "contest": 2,
+    "idx": 25
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Dave knew Albert would commit suicide",
+    "answer": 0,
+    "contest": 2,
+    "idx": 49
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert killed himself because he realized he had eaten lucy in the island",
+    "answer": 0,
+    "contest": 2,
+    "idx": 53
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert planned to suicide",
+    "answer": 0,
+    "contest": 2,
+    "idx": 58
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Dave knew what Albert was up to",
+    "answer": 0,
+    "contest": 2,
+    "idx": 59
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Dave knows lucy is dead",
+    "answer": 0,
+    "contest": 2,
+    "idx": 75
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert suspects lucy is dead",
+    "answer": 0,
+    "contest": 2,
+    "idx": 98
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert and Dave are safe",
+    "answer": 0,
+    "contest": 2,
+    "idx": 99
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "the waiter brings Albert the food he ordered",
+    "answer": 0,
+    "contest": 2,
+    "idx": 108
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "the waiter actually gave Albert seagull meat",
+    "answer": 0,
+    "contest": 2,
+    "idx": 109
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "the meat Albert eats is actually seagull",
+    "answer": 0,
+    "contest": 2,
+    "idx": 110
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert and Dave are not happy",
+    "answer": 0,
+    "contest": 2,
+    "idx": 122
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert and Dave are tired",
+    "answer": 0,
+    "contest": 2,
+    "idx": 123
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "everything was normal at the restaurant",
+    "answer": 0,
+    "contest": 2,
+    "idx": 124
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "the waiter did nothing suspicious",
+    "answer": 0,
+    "contest": 2,
+    "idx": 125
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "the meat the waiter brings is perfectly fine and is actually seagull",
+    "answer": 0,
+    "contest": 2,
+    "idx": 126
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "they go to the restaurant after being at the pier",
+    "answer": 0,
+    "contest": 2,
+    "idx": 127
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "they actually went to a restaurant",
+    "answer": 0,
+    "contest": 2,
+    "idx": 162
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert takes a bite of the food he received",
+    "answer": 0,
+    "contest": 2,
+    "idx": 163
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert suicide is linked to the seaull meat",
+    "answer": 0,
+    "contest": 2,
+    "idx": 164
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "the seagull meat is important to understand Albert and his act",
+    "answer": 0,
+    "contest": 2,
+    "idx": 165
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert was tired",
+    "answer": 0,
+    "contest": 2,
+    "idx": 166
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Dave was tired",
+    "answer": 0,
+    "contest": 2,
+    "idx": 167
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "lucy is dead",
+    "answer": 0,
+    "contest": 2,
+    "idx": 177
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert kills himself",
+    "answer": 0,
+    "contest": 2,
+    "idx": 181
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert suicides",
+    "answer": 0,
+    "contest": 2,
+    "idx": 182
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert doesn't know lucy is dead",
+    "answer": 0,
+    "contest": 2,
+    "idx": 183
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert and Dave find themselves at a pier due to an upsetting incident",
+    "answer": 0,
+    "contest": 2,
+    "idx": 184
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert and Dave are in a state of sadness and shock",
+    "answer": 0,
+    "contest": 2,
+    "idx": 185
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert suicided because of something that happened before he was at the pier",
+    "answer": 0,
+    "contest": 2,
+    "idx": 212
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert did not suicide because of something that happened at the restaurant",
+    "answer": 0,
+    "contest": 2,
+    "idx": 213
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert did not suicide because of something Dave did at the restaurant",
+    "answer": 0,
+    "contest": 2,
+    "idx": 214
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "what happened at the pier is not the reason of Albert's act",
+    "answer": 0,
+    "contest": 2,
+    "idx": 218
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Dave did nothing at the pier that could cause Albert's suicide",
+    "answer": 0,
+    "contest": 2,
+    "idx": 219
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "the reason is to be found somewhere else",
+    "answer": 0,
+    "contest": 2,
+    "idx": 220
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "the meat was not poisoned",
+    "answer": 0,
+    "contest": 2,
+    "idx": 221
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert planned to eat seagull",
+    "answer": 0,
+    "contest": 2,
+    "idx": 179
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Dave was not surpirsed by Albert's suicide",
+    "answer": 0,
+    "contest": 2,
+    "idx": 180
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "people other than Dave were surprised by Albert's suicide",
+    "answer": 0,
+    "contest": 2,
+    "idx": 181
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "they got there by boat",
+    "answer": 0,
+    "contest": 2,
+    "idx": 182
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert and Dave have been saved by someone",
+    "answer": 0,
+    "contest": 2,
+    "idx": 193
+  },
+  {
+    "passage": "A kind sailor saved Albert and Dave from an island and brought them to a pier with his boat. Now, they are sad and shocked. Albert does not know lucy  is dead, Dave knows Lucy is dead. They go to a restaurant. Albert orders seagull meat. The waiter brings Albert the seagull meat. Everything is ordinary. The seagull meat is perfectly fine and edible. After Albert takes a bite, he realizes he had never eaten seagull meat before and because of that Albert kills himself. Dave knew Albert would suicide, so he is not surpirsed. Other people at the restaurant were surprised. Albert and Dave were exhausted. Albert and Dave had discussions.  Albert wanted to go to the restaurant in order to eat seagull, Albert had this plan when he was on the island and nothing that happened changed Albert's mind.",
+    "question": "Albert and Dave were on an island",
+    "answer": 0,
+    "contest": 2,
+    "idx": 194
+  },
+  {
+    "passage": "Albert Dave and lucy are having fun. they did not have any argument. what happened was not upon them. there is a storm and the boat is wrecked. Albert, Dave, lucy cast away on an island. ",
+    "question": "the three of them were happy",
+    "answer": 0,
+    "contest": 3,
+    "idx": 8
+  },
+  {
+    "passage": "Albert Dave and lucy are having fun. they did not have any argument. what happened was not upon them. there is a storm and the boat is wrecked. Albert, Dave, lucy cast away on an island. ",
+    "question": "something happened when they were in the boat",
+    "answer": 0,
+    "contest": 3,
+    "idx": 26
+  },
+  {
+    "passage": "Albert Dave and lucy are having fun. they did not have any argument. what happened was not upon them. there is a storm and the boat is wrecked. Albert, Dave, lucy cast away on an island. ",
+    "question": "the sea is ferocious",
+    "answer": 0,
+    "contest": 3,
+    "idx": 48
+  },
+  {
+    "passage": "Albert Dave and lucy are having fun. they did not have any argument. what happened was not upon them. there is a storm and the boat is wrecked. Albert, Dave, lucy cast away on an island. ",
+    "question": "Albert Dave and lucy are happy",
+    "answer": 0,
+    "contest": 3,
+    "idx": 60
+  },
+  {
+    "passage": "Albert Dave and lucy are having fun. they did not have any argument. what happened was not upon them. there is a storm and the boat is wrecked. Albert, Dave, lucy cast away on an island. ",
+    "question": "an explosive thunderstorm is upon the boat",
+    "answer": 0,
+    "contest": 3,
+    "idx": 100
+  },
+  {
+    "passage": "Albert Dave and lucy are having fun. they did not have any argument. what happened was not upon them. there is a storm and the boat is wrecked. Albert, Dave, lucy cast away on an island. ",
+    "question": "Albert and Dave did not have any argument",
+    "answer": 0,
+    "contest": 3,
+    "idx": 111
+  },
+  {
+    "passage": "Albert Dave and lucy are having fun. they did not have any argument. what happened was not upon them. there is a storm and the boat is wrecked. Albert, Dave, lucy cast away on an island. ",
+    "question": "Albert Dave and lucy did not have arguments",
+    "answer": 0,
+    "contest": 3,
+    "idx": 112
+  },
+  {
+    "passage": "Albert Dave and lucy are having fun. they did not have any argument. what happened was not upon them. there is a storm and the boat is wrecked. Albert, Dave, lucy cast away on an island. ",
+    "question": "there are 3 people in the boat",
+    "answer": 0,
+    "contest": 3,
+    "idx": 128
+  },
+  {
+    "passage": "Albert Dave and lucy are having fun. they did not have any argument. what happened was not upon them. there is a storm and the boat is wrecked. Albert, Dave, lucy cast away on an island. ",
+    "question": "there was someone else with Albert and Dave in the boat",
+    "answer": 0,
+    "contest": 3,
+    "idx": 129
+  },
+  {
+    "passage": "Albert Dave and lucy are having fun. they did not have any argument. what happened was not upon them. there is a storm and the boat is wrecked. Albert, Dave, lucy cast away on an island. ",
+    "question": "Albert and Dave are not alone in the boat",
+    "answer": 0,
+    "contest": 3,
+    "idx": 130
+  },
+  {
+    "passage": "Albert Dave and lucy are having fun. they did not have any argument. what happened was not upon them. there is a storm and the boat is wrecked. Albert, Dave, lucy cast away on an island. ",
+    "question": "there are exactly 3 people in the boat and no one else",
+    "answer": 0,
+    "contest": 3,
+    "idx": 131
+  },
+  {
+    "passage": "Albert Dave and lucy are having fun. they did not have any argument. what happened was not upon them. there is a storm and the boat is wrecked. Albert, Dave, lucy cast away on an island. ",
+    "question": "Albert Dave and lucy are having a great time",
+    "answer": 0,
+    "contest": 3,
+    "idx": 154
+  },
+  {
+    "passage": "Albert Dave and lucy are having fun. they did not have any argument. what happened was not upon them. there is a storm and the boat is wrecked. Albert, Dave, lucy cast away on an island. ",
+    "question": "the storm happened unexpectedly",
+    "answer": 0,
+    "contest": 3,
+    "idx": 155
+  },
+  {
+    "passage": "Albert Dave and lucy are having fun. they did not have any argument. what happened was not upon them. there is a storm and the boat is wrecked. Albert, Dave, lucy cast away on an island. ",
+    "question": "something happens",
+    "answer": 0,
+    "contest": 3,
+    "idx": 170
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "they are starving",
+    "answer": 0,
+    "contest": 4,
+    "idx": 11
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "Dave knows he's eating lucy",
+    "answer": 0,
+    "contest": 4,
+    "idx": 35
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "Albert knows there's something suspicious",
+    "answer": 0,
+    "contest": 4,
+    "idx": 36
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "the sailor brings them back safely to the pier",
+    "answer": 0,
+    "contest": 4,
+    "idx": 39
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "they struggle to find something to eat",
+    "answer": 0,
+    "contest": 4,
+    "idx": 43
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "they struggle to find something to eat",
+    "answer": 0,
+    "contest": 4,
+    "idx": 44
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "Albert and Dave are sad",
+    "answer": 0,
+    "contest": 4,
+    "idx": 63
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "Dave knows lucy is dead",
+    "answer": 0,
+    "contest": 4,
+    "idx": 77
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "they are hungry",
+    "answer": 0,
+    "contest": 4,
+    "idx": 101
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "they are not able to find much food and they are starving",
+    "answer": 0,
+    "contest": 4,
+    "idx": 102
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "lucy is dead",
+    "answer": 0,
+    "contest": 4,
+    "idx": 113
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "Albert and Dave survive the shipwreck",
+    "answer": 0,
+    "contest": 4,
+    "idx": 143
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "lucy does not survive the shipwreck",
+    "answer": 0,
+    "contest": 4,
+    "idx": 144
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "someone that was in the ship did not make it",
+    "answer": 0,
+    "contest": 4,
+    "idx": 147
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "the island is deserted",
+    "answer": 0,
+    "contest": 4,
+    "idx": 148
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "Albert thinks he is eating seagull",
+    "answer": 0,
+    "contest": 4,
+    "idx": 151
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "Albert actually believes he is eating seagull",
+    "answer": 0,
+    "contest": 4,
+    "idx": 152
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "lucy did not make it out alive",
+    "answer": 0,
+    "contest": 4,
+    "idx": 186
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": " Luckily, the island is devoid of dangerous animals, so they don't face immediate threats to their safety",
+    "answer": 0,
+    "contest": 4,
+    "idx": 187
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "Albert and Dave resort to unconventional food sources to sustain themselves.",
+    "answer": 0,
+    "contest": 4,
+    "idx": 188
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "Albert hesitantly continues to eat what he believes to be seagull meat",
+    "answer": 0,
+    "contest": 4,
+    "idx": 189
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "the sailor is a kind-hearted and genuine person",
+    "answer": 0,
+    "contest": 4,
+    "idx": 190
+  },
+  {
+    "passage": "lucy dies in the shipwreck. Albert and Dave manage to survive. they are alone on the island. there is no one else on the island. there are not dangerous animals. Albert and Dave do not have to fight to survive. there is no one else on the island. there is not much food.they resort to unconvential food sources. they did not have to fight. Dave finds lucy's corpse. they manage to survive.Dave is compelled to eat lucy. Dave does not want to eat lucy. Dave eats lucy. Albert also eats lucy. because Albert is blind, Albert does not know he is eating lucy. Dave knows he is eating lucy. Dave revolts while eating lucy. Albert does not revolt while eating lucy. Dave tells Albert he is eating seagull. Albert thinks he is eating seagull. Albert is suspicious. there is a sailor passing by. the sailor saves Albert and Dave and brings them to a pier. the sailor is a good man. the sailor does not have ill intentions. Albert and Dave are grateful to the sailor.Albert does not know lucy is dead. Dave knows lucy is dead.",
+    "question": "Albert remains unaware of Lucy's fate",
+    "answer": 0,
+    "contest": 4,
+    "idx": 191
+  }
+]
