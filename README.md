@@ -7,7 +7,7 @@ A BERT-like transformer is used to solve an NLI task. The model is asked yes/no 
 
 #### Based on the idea and data set of [SeagullStory](https://github.com/manuu1311/SeagullStory) by @manuu1311.
 
-In this project we aim to fine-tune a BERT-like transformer to solve a Natural Language Inference task. The model is asked `yes`/`no` questions and has to answer `yes`, `no`, or `irrelevant` based on a given story.
+In this project, we aim to fine-tune a BERT-like transformer to solve a Natural Language Inference task. Based on a given story, the model is asked `yes`/`no` questions and has to answer `yes`, `no`, or `irrelevant`.
 
 ## The NLI task
 *Natural Language Inference*, also known as *textual entailment*, is the task of determining whether a *hypothesis* is true (**entailment**), false (**contradiction**), or undetermined (**neutral**) given a *premise*.
@@ -21,15 +21,17 @@ Read more on [Textual entailment][1].
 [1]:https://en.wikipedia.org/wiki/Textual_entailment
 
 ## BERT
-When it comes to solving natural language tasks, the BERT and GPT models have come to the fore due to their innovative architectures. Both are based on the transformer architecture, which is based on the attention mechanism, discovered by Google in 2017 and published in the paper [Attention is All You Need](https://arxiv.org/abs/1706.03762) by Vaswani et al.
+Due to their innovative architectures, the BERT and GPT models have come to the fore when it comes to solving natural language tasks. Both are based on the transformer architecture, which is based on the attention mechanism, discovered by Google in 2017 and published in the paper [Attention is All You Need](https://arxiv.org/abs/1706.03762) by Vaswani et al.
 
 ### The BERT's pre-training phase
 Unlike GPT, BERT is trained both to predict missing words in text (*Masked Language Modelling*), using both left and right contexts, and to recognize when two sentences in the same corpus follow each other (*Next Sentence Prediction*). 
 
 * In the first task, each token in the input sequence is selected with a probability of $15\%$, and each selected token is replaced with the special `[MASK]` token with a probability of $80\%$, with a random token with a probability of $10\%$, and left unchanged with a probability of $10\%$. Replacement with random tokens, with a uniform probability distribution across the dictionary, is one way to fight *dataset shift*, a problem that occurs when the distribution of tokens differs greatly from training to induction. Finally, the output vector at the position of the `[MASK]` token is fed into a simple classification head, namely a feed-forward network, and then a softmax function is applied to transform the logits into a valid probability distribution over the tokens of the dictionary.
-* In the second task, the transformer is fed with a vector structured as follows: 
-  $${\text{\textbf{input}}} = [\text{\texttt{[CLS]}} | \text{\textbf{sentence}}_1 | \texttt{[SEP]} | \text{\textbf{sentence}}_2 | \text{\texttt{[SEP]}}].$$
-  The output vector at the position of the `[CLS]` special token is processed by a binary classifier, again, a feed-forward network, to answer with a probability distribution over the classes `IsNext` and `NotNext`.
+* In the second task, the transformer is fed with a vector structured as follows:
+  
+$$\text{\textbf{input}} = [\text{\texttt{[CLS]}} | \text{\textbf{sentence}}_1 | \texttt{[SEP]} | \text{\textbf{sentence}}_2 | \text{\texttt{[SEP]}}]$$
+  
+The output vector at the position of the `[CLS]` special token is processed by a binary classifier, again, a feed-forward network, to answer with a probability distribution over the classes `IsNext` and `NotNext`.
 
 ### BERT is encoder-only and bidirectional
 It's interesting to note that BERT is an **encoder-only architecture**, meaning that, unlike GPT or a vanilla transformer in general, it lacks the ability to decode a vector from the dense latent space back into the vocabulary domain. Instead, BERT focuses on understanding the meaning of the input text. In the two training scenarios described above, **the classification head can be thought of as a simple one-stage decoder**, but when fine-tuning the model for a specific task, it's usually the case to remove it and add a new one based on the needs of the context.
@@ -38,15 +40,21 @@ The pre-training process implies that **BERT is a bidirectional model**, and thu
 
 ### The BERT embedding strategy
 Downstream of the *WordPiece* tokenizer, which uses a dictionary of $30.000$ tokens organized with a subword strategy, BERT embeds the tokens in a peculiar way.
-$$E(\vec{v})=\text{LayerNorm}(\text{TokenType}(\vec{v})+\text{Position}(\vec{v})+\text{SegmentType}(\vec{v}))$$
-* The $\text{TokenType}(\vec{v})$ is the classic embedding. The one-hot encoded $(30.000\times 1)$ token is translated to a lower dimensional dense space, resulting in a smaller $(768\times 1)$ vector, where each dimension has a specific semantic meaning, but still ignores the context of the sentence.
-* The $\text{Position}(\vec{v})$ holds the information of the position of the token inside the sentence. For this purpose, $sin$ and $cos$ functions are used because they are continuous and differentiable and the relationship $sin(a+b)=f(sin(a),sin(b),cos(a),cos(b))$ allows to infer the relative position of two distinct tokens. More precisely, the value of the j-th dimension of the i-th embedded position:
-  $$\text{Position}(i)_j: \begin{cases}
-  sin\left( \dfrac{i}{10.000^{j/768}} \right) \quad \text{if } i \text{ is even}\\
-  cos\left( \dfrac{i}{10.000^{j/768}} \right) \quad \text{if } i \text{ is odd}
-  \end{cases} $$
+
+$$E(\vec{v})=\text{LayerNorm}(\text{TokenType}(\vec{v})+\text{Position}(\vec{v})+\text{SegmentType}(\vec{v})) $$
+
+* The $\text{TokenType}$ is the classic embedding. The one-hot encoded $(30.000\times 1)$ token is translated to a lower dimensional dense space, resulting in a smaller $(768\times 1)$ vector, where each dimension has a specific semantic meaning, but still ignores the context of the sentence.
+* The $\text{Position}$ holds the information of the position of the token inside the sentence. For this purpose, $sin$ and $cos$ functions are used because they are continuous and differentiable and the relationship $sin(a+b)=f(sin(a),sin(b),cos(a),cos(b))$ allows to infer the relative position of two distinct tokens. More precisely, the value of the j-th dimension of the i-th embedded position:
+
+$$
+\mathrm{Position}(i)_j = \begin{cases}
+    sin\left( \dfrac{i}{10.000^{j/768}} \right) & \text{if } i \text{ is even} \\
+    cos\left( \dfrac{i}{10.000^{j/768}} \right)  & \text{if } i \text{ is odd.}
+\end{cases}
+$$
+
   This means that large dimensions encode large positional differences, while smaller dimensions encode finer positional differences.
-* The $\text{SegmentType}(\vec{v})$ is used for the *Next Sentence Prediction* training. It simply assigns a binary label based on which sentence the token belongs to. Essentially it is $\vec{0}$ if the token comes before the `[SEP]` special token, or $\vec{1}$ if it comes after it.
+* The $\text{SegmentType}$ is used for the *Next Sentence Prediction* training. It simply assigns a binary label based on which sentence the token belongs to. Essentially it is $\vec{0}$ if the token comes before the `[SEP]` special token, or $\vec{1}$ if it comes after it.
 
 Read more on [Differences Between GPT and BERT][2] and [BERT Model – NLP][3].
 
