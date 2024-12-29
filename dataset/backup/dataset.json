@@ -1,0 +1,2094 @@
+[
+    {
+        "question": "Albert and Lucy are married",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Lucy might are considered weirdos by their friends",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Lucy are divorced",
+        "answer": 1
+    },
+    {
+        "question": "Albert is brilliant",
+        "answer": 0
+    },
+    {
+        "question": "Lucy is brilliant",
+        "answer": 0
+    },
+    {
+        "question": "their friends call them shamy",
+        "answer": 0
+    },
+    {
+        "question": "their friends are much more intelligent than Albert and Lucy",
+        "answer": 1
+    },
+    {
+        "question": "Albert's friends are more or less as intelligent as him",
+        "answer": 1
+    },
+    {
+        "question": "Albert does not have any friends",
+        "answer": 1
+    },
+    {
+        "question": "Lucy is not so smart",
+        "answer": 1
+    },
+    {
+        "question": "brilliant people are sometimes considered weird by other people",
+        "answer": 0
+    },
+    {
+        "question": "the sky is blue",
+        "answer": 1
+    },
+    {
+        "question": "Albert is married to Lucy, however he doesn't really love her",
+        "answer": 1
+    },
+    {
+        "question": "not only is Albert married to Lucy, he also really loves her",
+        "answer": 0
+    },
+    {
+        "question": "Lucy really loves Albert, she is also married to him",
+        "answer": 0
+    },
+    {
+        "question": "Lucy truly loves Albert",
+        "answer": 0
+    },
+    {
+        "question": "the two of them really love each other",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Lucy, the two scientists, truly love each other. they are married",
+        "answer": 0
+    },
+    {
+        "question": "Lucy does not love Albert, even though they are married",
+        "answer": 1
+    },
+    {
+        "question": "brilliant people are not considered eccentric, they are only considered brilliant by others",
+        "answer": 1
+    },
+    {
+        "question": "tomorrow, the sun will shine",
+        "answer": 1
+    },
+    {
+        "question": "hello",
+        "answer": 1
+    },
+    {
+        "question": "yes",
+        "answer": 1
+    },
+    {
+        "question": "Albert and Lucy are married and they are also scientists. they are considered really brilliant, however their friends mock them calling them shamy because they appear weird to them",
+        "answer": 0
+    },
+    {
+        "question": "leonard and penny are a couple",
+        "answer": 0
+    },
+    {
+        "question": "leonard and penny love each other",
+        "answer": 0
+    },
+    {
+        "question": "leonard really loves penny",
+        "answer": 0
+    },
+    {
+        "question": "leonard is short and shy, while penny is tall and beautiful",
+        "answer": 0
+    },
+    {
+        "question": "leonard loves penny more than she loves him",
+        "answer": 0
+    },
+    {
+        "question": "leonard lost his mind for penny",
+        "answer": 0
+    },
+    {
+        "question": "penny is blonde",
+        "answer": 0
+    },
+    {
+        "question": "penny is a tall woman with blonde hair",
+        "answer": 0
+    },
+    {
+        "question": "it was love at first sight for leonard",
+        "answer": 0
+    },
+    {
+        "question": "penny lives in a house near leonard",
+        "answer": 0
+    },
+    {
+        "question": "leonard and penny first met when penny moved to her new house",
+        "answer": 0
+    },
+    {
+        "question": "penny is passionate",
+        "answer": 0
+    },
+    {
+        "question": "penny loves leonard",
+        "answer": 0
+    },
+    {
+        "question": "emanuele",
+        "answer": 1
+    },
+    {
+        "question": "penny really loves leonard, even though he mistreats her and doesn't really love her",
+        "answer": 1
+    },
+    {
+        "question": "penny loves leonard more than he loves her",
+        "answer": 1
+    },
+    {
+        "question": "penny is skinny, short and has orange eyes",
+        "answer": 1
+    },
+    {
+        "question": "penny is really smart, opposed to leonard",
+        "answer": 1
+    },
+    {
+        "question": "they are an obvious couple, like they are made for each other",
+        "answer": 1
+    },
+    {
+        "question": "bob does not really love lucy",
+        "answer": 1
+    },
+    {
+        "question": "penny and leonard are a couple. they are similar and have similar interest. that's why they get along with each other. they are similar both physically and mentally",
+        "answer": 1
+    },
+    {
+        "question": "penny does not really love leonard",
+        "answer": 1
+    },
+    {
+        "question": "penny is actually trying to take advantage of leonard",
+        "answer": 1
+    },
+    {
+        "question": "penny fell in love with leonard the moment she saw him",
+        "answer": 1
+    },
+    {
+        "question": "penny lives far away from leonard. that's why it's hard for them to maintain a relationship",
+        "answer": 1
+    },
+    {
+        "question": "penny is chinese",
+        "answer": 1
+    },
+    {
+        "question": "their only challenge is to find food. there is nothing dangerous like deadly animals or even a primal tribe, nothing",
+        "answer": 0
+    },
+    {
+        "question": "the people were in a boat",
+        "answer": 0
+    },
+    {
+        "question": "the boat was hit by a storm",
+        "answer": 0
+    },
+    {
+        "question": "the boat was eventually wrecked by the storm",
+        "answer": 0
+    },
+    {
+        "question": "the people that were in the boat cast away on an island",
+        "answer": 0
+    },
+    {
+        "question": "even though alone, they have tools ",
+        "answer": 1
+    },
+    {
+        "question": "they have nothing but their lives",
+        "answer": 0
+    },
+    {
+        "question": "they have troubles finding food",
+        "answer": 0
+    },
+    {
+        "question": "the food is their only challenge, they don't have to fight with any animal or tribe to survive",
+        "answer": 0
+    },
+    {
+        "question": "the island is not really desert: there is a tribe hiding inside!",
+        "answer": 1
+    },
+    {
+        "question": "they find a tribe and have to fight with them in order to survive. it's hard, but if they succeed, they can steal their food",
+        "answer": 1
+    },
+    {
+        "question": "the island is full of dangerous animals: from wolves to snaked and even bears. there is a grizzly bear hiding in a cave in the island",
+        "answer": 1
+    },
+    {
+        "question": "they don't really have to worry about food, since the island is full of resources",
+        "answer": 1
+    },
+    {
+        "question": "they are at least together and they can cooperate, since everyone cast on the same part of the island",
+        "answer": 1
+    },
+    {
+        "question": "they are scattered in different parts of the island",
+        "answer": 0
+    },
+    {
+        "question": "they have tools they managed to take when the storm arrived",
+        "answer": 1
+    },
+    {
+        "question": "the boat wrecked because of a bomb",
+        "answer": 1
+    },
+    {
+        "question": "they had many arguments in the boat, that's why they don't care anymore about their lives",
+        "answer": 1
+    },
+    {
+        "question": "a person in particular caused the shipwreck",
+        "answer": 1
+    },
+    {
+        "question": "the shipwreck was not caused by any person",
+        "answer": 0
+    },
+    {
+        "question": "the people in the boat had a fight before the storm",
+        "answer": 1
+    },
+    {
+        "question": "finding food was the main challenge in the island",
+        "answer": 0
+    },
+    {
+        "question": "as soon as the people cast away on the island, they gathered and formed a union in order to maximize their chances of survival",
+        "answer": 1
+    },
+    {
+        "question": "since they did not have any tools, they had to build everything that they need from scratch",
+        "answer": 0
+    },
+    {
+        "question": "exactly 4 people cast away on the island",
+        "answer": 1
+    },
+    {
+        "question": "they have advanced tools they brought from their homes, so surviving is pretty easy for them",
+        "answer": 1
+    },
+    {
+        "question": "exactly 3 people cast away on the island",
+        "answer": 0
+    },
+    {
+        "question": "there are more than 2 people on the island",
+        "answer": 0
+    },
+    {
+        "question": "they were cast away in the same spot of the island",
+        "answer": 1
+    },
+    {
+        "question": "in the beginning, they are scattered across the island",
+        "answer": 0
+    },
+    {
+        "question": "at first, they are scattered across the island. however, after some time and some exploration, they find each other",
+        "answer": 0
+    },
+    {
+        "question": "when they find each other, they do not start to fight. instead, they try to help each other so that it's easier for them to survive",
+        "answer": 0
+    },
+    {
+        "question": "they have a big fight as soon as they find each other",
+        "answer": 1
+    },
+    {
+        "question": "there are monkeys in the island",
+        "answer": 0
+    },
+    {
+        "question": "they were able to befriend a monkey",
+        "answer": 0
+    },
+    {
+        "question": "they manage to build tools",
+        "answer": 0
+    },
+    {
+        "question": "after they built more advanced tools, they are happy to live in the island and don't want to go back to civilization",
+        "answer": 0
+    },
+    {
+        "question": "in the end, they are happy where they are and do not try to escape the island",
+        "answer": 0
+    },
+    {
+        "question": "since there is no fight for survival, surviving is easy",
+        "answer": 1
+    },
+    {
+        "question": "there is not much food in the island",
+        "answer": 0
+    },
+    {
+        "question": "there are no dangerous animals in the island",
+        "answer": 0
+    },
+    {
+        "question": "there is a tribe that wants to kill them",
+        "answer": 1
+    },
+    {
+        "question": "in the beginning, they have access to very advanced tools brought from civilization",
+        "answer": 1
+    },
+    {
+        "question": "they do not have any advanced tools in the beginning",
+        "answer": 0
+    },
+    {
+        "question": "surviving is easy, since there is plenty of food and no really dangerous animal is there on the island",
+        "answer": 1
+    },
+    {
+        "question": "in the end, they are very happy to finally go back to civilization",
+        "answer": 1
+    },
+    {
+        "question": "the eventually come to fight with each other because of food",
+        "answer": 1
+    },
+    {
+        "question": "in the end, they populate the island with their kids and they all live happily ever after with their families",
+        "answer": 1
+    },
+    {
+        "question": "one of them catches a deadly virus and after weeks of fighting, he eventually gives up and dies",
+        "answer": 1
+    },
+    {
+        "question": "there are two men and one woman, the men fight with each other in the hope of mating with the woman",
+        "answer": 1
+    },
+    {
+        "question": "there are 3 friends involved in this story",
+        "answer": 1
+    },
+    {
+        "question": "there are only two friends involved in this story",
+        "answer": 0
+    },
+    {
+        "question": "the two of them are not really friends. they secretly hate each other",
+        "answer": 1
+    },
+    {
+        "question": "they are actually friends",
+        "answer": 0
+    },
+    {
+        "question": "the two people who are at the pier are actually friends",
+        "answer": 0
+    },
+    {
+        "question": "the two of them chose to hang out by the pier",
+        "answer": 1
+    },
+    {
+        "question": "something's off at the restaurant",
+        "answer": 1
+    },
+    {
+        "question": "something is just not right at the restaurant, and the two friends can feel it",
+        "answer": 1
+    },
+    {
+        "question": "someone has ordered seagull meat",
+        "answer": 0
+    },
+    {
+        "question": "someone wanted to eat seagull meat",
+        "answer": 0
+    },
+    {
+        "question": "the waiter behaves normally",
+        "answer": 0
+    },
+    {
+        "question": "they were at the pier because the were rescued after they were cast away on the island",
+        "answer": 0
+    },
+    {
+        "question": "a sailor brings them there",
+        "answer": 0
+    },
+    {
+        "question": "the two friends have a hard time deciding what to order",
+        "answer": 1
+    },
+    {
+        "question": "something strange happens at the restaurant",
+        "answer": 0
+    },
+    {
+        "question": "everything that happens at the restaurant is ordinary",
+        "answer": 0
+    },
+    {
+        "question": "someone orders seagull meat at the restaurant",
+        "answer": 0
+    },
+    {
+        "question": "the waiter doesn't actually bring them what they ordered",
+        "answer": 1
+    },
+    {
+        "question": "they did not have plans to be here",
+        "answer": 0
+    },
+    {
+        "question": "they decided to go there because they planned to do something",
+        "answer": 1
+    },
+    {
+        "question": "they are just hanging out and chilling",
+        "answer": 1
+    },
+    {
+        "question": "they plan to do something specific and that's why they are at the pier",
+        "answer": 1
+    },
+    {
+        "question": "they have been saved by someone else",
+        "answer": 0
+    },
+    {
+        "question": "they did not choose to go to that specific restaurant. they just happened to be there and just went there, randomly",
+        "answer": 0
+    },
+    {
+        "question": "even though everything looks normal, there is something that is just not right, but they don't know what",
+        "answer": 1
+    },
+    {
+        "question": "it was night",
+        "answer": 1
+    },
+    {
+        "question": "it all happened in christmas",
+        "answer": 1
+    },
+    {
+        "question": "they are discussing a surprise birthday party for their friend",
+        "answer": 1
+    },
+    {
+        "question": "daniel was riding a bike",
+        "answer": 0
+    },
+    {
+        "question": "the road was downhill when daniel fell",
+        "answer": 0
+    },
+    {
+        "question": "daniel can ride a bike",
+        "answer": 0
+    },
+    {
+        "question": "daniel managed to survive the accident",
+        "answer": 0
+    },
+    {
+        "question": "daniel survived the accident",
+        "answer": 0
+    },
+    {
+        "question": "daniel is alive and well, he just has some bruises and a broken arm",
+        "answer": 0
+    },
+    {
+        "question": "daniel broke his arm",
+        "answer": 0
+    },
+    {
+        "question": "daniel is injured",
+        "answer": 0
+    },
+    {
+        "question": "a car hit daniel while he was riding a bike",
+        "answer": 1
+    },
+    {
+        "question": "daniel fell on the ground",
+        "answer": 0
+    },
+    {
+        "question": "daniel is at the hospital",
+        "answer": 0
+    },
+    {
+        "question": "daniel is recovering his broken arm",
+        "answer": 0
+    },
+    {
+        "question": "daniel got bruises on his hands",
+        "answer": 0
+    },
+    {
+        "question": "the bike lost grip",
+        "answer": 0
+    },
+    {
+        "question": "the front tyre lost grip",
+        "answer": 0
+    },
+    {
+        "question": "the bike did not have brakes",
+        "answer": 1
+    },
+    {
+        "question": "daniel was driving his car",
+        "answer": 1
+    },
+    {
+        "question": "once upon a time, lucy was the queen of the big reign. she reigned in peace, all the citizens were happy and they prospered for more than fifty years",
+        "answer": 1
+    },
+    {
+        "question": "daniel broke his leg",
+        "answer": 1
+    },
+    {
+        "question": "daniel hit his head while riding a bike, now he is at the hospital in critical conditions",
+        "answer": 1
+    },
+    {
+        "question": "daniel's conditions are critical",
+        "answer": 1
+    },
+    {
+        "question": "daniel lost control of the bike because a truck was driving into him and he tried to avoid it",
+        "answer": 1
+    },
+    {
+        "question": "daniel was not harmed in his accident",
+        "answer": 1
+    },
+    {
+        "question": "daniel is already fully recovered",
+        "answer": 1
+    },
+    {
+        "question": "daniel was riding a motorcycle",
+        "answer": 1
+    },
+    {
+        "question": "daniel died shortly after the accident. the ambulance tried to revive him with no success",
+        "answer": 1
+    },
+    {
+        "question": "daniel is married to matthew, they are homosexuals",
+        "answer": 1
+    },
+    {
+        "question": "daniel fell while climbing the stairs",
+        "answer": 1
+    },
+    {
+        "question": "sophie is curious",
+        "answer": 0
+    },
+    {
+        "question": "sophie is an explorer",
+        "answer": 0
+    },
+    {
+        "question": "sophie is a curious explorer",
+        "answer": 0
+    },
+    {
+        "question": "sophie set off of an adventure through the jungle",
+        "answer": 0
+    },
+    {
+        "question": "sophie encountered creatures and plants in the adventure",
+        "answer": 0
+    },
+    {
+        "question": "there was a mysterious artifact that she tried to reach for",
+        "answer": 0
+    },
+    {
+        "question": "sophie found a forgotten civilization",
+        "answer": 0
+    },
+    {
+        "question": "sophie is not curious",
+        "answer": 1
+    },
+    {
+        "question": "sophie is not an explorer",
+        "answer": 1
+    },
+    {
+        "question": "sophie did not have any ancounter",
+        "answer": 1
+    },
+    {
+        "question": "sophie set off of an adventure through the icy environment of the north pole",
+        "answer": 1
+    },
+    {
+        "question": "sophie died as soon as she reached for the artifact",
+        "answer": 1
+    },
+    {
+        "question": "sophie fought for her life against dangerous animals in the jungle",
+        "answer": 1
+    },
+    {
+        "question": "sophie unveiled nothing during the expedition",
+        "answer": 1
+    },
+    {
+        "question": "emma is a young artist",
+        "answer": 0
+    },
+    {
+        "question": "emma is young",
+        "answer": 0
+    },
+    {
+        "question": "emma is an artist",
+        "answer": 0
+    },
+    {
+        "question": "emma discovered something in her attic",
+        "answer": 0
+    },
+    {
+        "question": "emma is and old grumpy woman",
+        "answer": 1
+    },
+    {
+        "question": "emma is a black woman",
+        "answer": 1
+    },
+    {
+        "question": "emma found nothing in her attic",
+        "answer": 1
+    },
+    {
+        "question": "emma is not actually a woman. it's a dog",
+        "answer": 1
+    },
+    {
+        "question": "mark had toast for breakfast",
+        "answer": 0
+    },
+    {
+        "question": "mark did ordinary tasks at the office",
+        "answer": 0
+    },
+    {
+        "question": "mark had a ham sandwich for lunch",
+        "answer": 0
+    },
+    {
+        "question": "mark went to the gym after work",
+        "answer": 0
+    },
+    {
+        "question": "while mark was having dinner, the tv was on",
+        "answer": 0
+    },
+    {
+        "question": "while mark was having dinner, a tv show player in the background",
+        "answer": 0
+    },
+    {
+        "question": "mark had an ordinary day where nothing unusual happened",
+        "answer": 0
+    },
+    {
+        "question": "mark had a monotone day",
+        "answer": 0
+    },
+    {
+        "question": "it was an uneventful day for mark",
+        "answer": 0
+    },
+    {
+        "question": "mark did not wake up on monday, because he was dead",
+        "answer": 1
+    },
+    {
+        "question": "mark had pizza for breakfast",
+        "answer": 1
+    },
+    {
+        "question": "mark did something exciting at work",
+        "answer": 1
+    },
+    {
+        "question": "something strange and unusual happened at work for mark",
+        "answer": 1
+    },
+    {
+        "question": "mark had a strange encounter while going to the gym",
+        "answer": 1
+    },
+    {
+        "question": "mark had a sandwich with cheese and speck for lunch",
+        "answer": 1
+    },
+    {
+        "question": "mark listened to the radio while having dinner",
+        "answer": 1
+    },
+    {
+        "question": "mark went to his girlfriend's house after work",
+        "answer": 1
+    },
+    {
+        "question": "mark had an exciting day",
+        "answer": 1
+    },
+    {
+        "question": "sarah has an exciting life",
+        "answer": 1
+    },
+    {
+        "question": "sarah does not have an exciting life",
+        "answer": 0
+    },
+    {
+        "question": "sarah lives an ordinary life",
+        "answer": 0
+    },
+    {
+        "question": "sarah lives a monotous life",
+        "answer": 0
+    },
+    {
+        "question": "sarah does not live a particularly exciting life",
+        "answer": 0
+    },
+    {
+        "question": "sarah's life is not so exciting",
+        "answer": 0
+    },
+    {
+        "question": "sarah met a stranger that allowed her to finally break out of her monotony",
+        "answer": 0
+    },
+    {
+        "question": "sarah is a cat",
+        "answer": 1
+    },
+    {
+        "question": "sarah is a person",
+        "answer": 0
+    },
+    {
+        "question": "sarah has troubles providing her family with meals",
+        "answer": 1
+    },
+    {
+        "question": "sarah goes to the gym everyday",
+        "answer": 1
+    },
+    {
+        "question": "sarah likes to run one thousand meters everyday",
+        "answer": 1
+    },
+    {
+        "question": "sarah is a fat lady",
+        "answer": 1
+    },
+    {
+        "question": "sarah is happy about her husband",
+        "answer": 1
+    },
+    {
+        "question": "lucy died in the shipwreck",
+        "answer": 1
+    },
+    {
+        "question": "lucy died in the shipwreck",
+        "answer": 0
+    },
+    {
+        "question": "lucy died in the shipwreck",
+        "answer": 1
+    },
+    {
+        "question": "lucy died in the shipwreck",
+        "answer": 1
+    },
+    {
+        "question": "lucy died in the shipwreck",
+        "answer": 0
+    },
+    {
+        "question": "lucy died in the shipwreck",
+        "answer": 0
+    },
+    {
+        "question": "lucy died in the shipwreck",
+        "answer": 0
+    },
+    {
+        "question": "lucy died in the shipwreck",
+        "answer": 0
+    },
+    {
+        "question": "lucy died in the shipwreck",
+        "answer": 1
+    },
+    {
+        "question": "lucy died in the shipwreck",
+        "answer": 1
+    },
+    {
+        "question": "bob is blind",
+        "answer": 0
+    },
+    {
+        "question": "bob is blind",
+        "answer": 0
+    },
+    {
+        "question": "bob is blind",
+        "answer": 0
+    },
+    {
+        "question": "bob is blind",
+        "answer": 1
+    },
+    {
+        "question": "bob is blind",
+        "answer": 1
+    },
+    {
+        "question": "bob is blind",
+        "answer": 1
+    },
+    {
+        "question": "bob realized he ate lucy on the island",
+        "answer": 0
+    },
+    {
+        "question": "bob realized he ate lucy on the island",
+        "answer": 0
+    },
+    {
+        "question": "bob realized he ate lucy on the island",
+        "answer": 0
+    },
+    {
+        "question": "bob realized he ate lucy on the island",
+        "answer": 1
+    },
+    {
+        "question": "bob realized he ate lucy on the island",
+        "answer": 1
+    },
+    {
+        "question": "bob realized he ate lucy on the island",
+        "answer": 1
+    },
+    {
+        "question": "Albert and Dave are friends",
+        "answer": 0
+    },
+    {
+        "question": "Albert was married",
+        "answer": 0
+    },
+    {
+        "question": "the three of them were happy",
+        "answer": 0
+    },
+    {
+        "question": "the story is set in the modern times",
+        "answer": 0
+    },
+    {
+        "question": "the story is plausible and reasonable",
+        "answer": 0
+    },
+    {
+        "question": "there are more than 2 characters involved in the story",
+        "answer": 0
+    },
+    {
+        "question": "there are only 3 characters involved in the story",
+        "answer": 0
+    },
+    {
+        "question": "lucy and Albert did not betray each other",
+        "answer": 0
+    },
+    {
+        "question": "the story does not involve fairies",
+        "answer": 0
+    },
+    {
+        "question": "Albert does not believe in god",
+        "answer": 0
+    },
+    {
+        "question": "Albert does not have any religious belief",
+        "answer": 0
+    },
+    {
+        "question": "the story is actually believable",
+        "answer": 0
+    },
+    {
+        "question": "Albert and his wife love each other",
+        "answer": 0
+    },
+    {
+        "question": "Albert is engaged",
+        "answer": 0
+    },
+    {
+        "question": "the story makes sense",
+        "answer": 0
+    },
+    {
+        "question": "the story is set in the middle ages",
+        "answer": 2
+    },
+    {
+        "question": "the story involves magic",
+        "answer": 2
+    },
+    {
+        "question": "the story envolves something mystical",
+        "answer": 2
+    },
+    {
+        "question": "the story involves something beyond our comprehension",
+        "answer": 2
+    },
+    {
+        "question": "the two friends are psychos",
+        "answer": 2
+    },
+    {
+        "question": "the two friends are sociopaths",
+        "answer": 2
+    },
+    {
+        "question": "Albert is crazy",
+        "answer": 2
+    },
+    {
+        "question": "Dave is crazy",
+        "answer": 2
+    },
+    {
+        "question": "Albert cheated on lucy multiple times",
+        "answer": 2
+    },
+    {
+        "question": "Albert and lucy are not a happy couple",
+        "answer": 2
+    },
+    {
+        "question": "Albert is a child",
+        "answer": 2
+    },
+    {
+        "question": "Albert is in an unhappy relation",
+        "answer": 2
+    },
+    {
+        "question": "Albert is an old man",
+        "answer": 2
+    },
+    {
+        "question": "Dave is a grumpy old bastard",
+        "answer": 2
+    },
+    {
+        "question": "Albert believes in the one and true god",
+        "answer": 2
+    },
+    {
+        "question": "Albert and Dave are friends",
+        "answer": 1
+    },
+    {
+        "question": "Albert was married",
+        "answer": 1
+    },
+    {
+        "question": "the three of them were happy",
+        "answer": 1
+    },
+    {
+        "question": "the story is set in the modern times",
+        "answer": 1
+    },
+    {
+        "question": "the story is plausible and reasonable",
+        "answer": 1
+    },
+    {
+        "question": "there are more than 2 characters involved in the story",
+        "answer": 1
+    },
+    {
+        "question": "there are only 3 characters involved in the story",
+        "answer": 1
+    },
+    {
+        "question": "lucy and Albert did not betray each other",
+        "answer": 1
+    },
+    {
+        "question": "the story does not involve fairies",
+        "answer": 1
+    },
+    {
+        "question": "Albert does not believe in god",
+        "answer": 1
+    },
+    {
+        "question": "Albert does not have any religious belief",
+        "answer": 1
+    },
+    {
+        "question": "the story is actually believable",
+        "answer": 1
+    },
+    {
+        "question": "Albert and his wife love each other",
+        "answer": 1
+    },
+    {
+        "question": "Albert is engaged",
+        "answer": 1
+    },
+    {
+        "question": "the story makes sense",
+        "answer": 1
+    },
+    {
+        "question": "there are only Albert and Dave at the pier",
+        "answer": 0
+    },
+    {
+        "question": "there are only Albert and Dave at the pier",
+        "answer": 0
+    },
+    {
+        "question": "Albert killed himself because eating the seagull made him realize something",
+        "answer": 0
+    },
+    {
+        "question": "they happened to be at the pier",
+        "answer": 0
+    },
+    {
+        "question": "something happened that made them be at the pier",
+        "answer": 0
+    },
+    {
+        "question": "they were shocked",
+        "answer": 0
+    },
+    {
+        "question": "they were sad",
+        "answer": 0
+    },
+    {
+        "question": "Dave knew Albert would commit suicide",
+        "answer": 0
+    },
+    {
+        "question": "Albert killed himself because he realized he had eaten lucy in the island",
+        "answer": 0
+    },
+    {
+        "question": "Albert planned to suicide",
+        "answer": 0
+    },
+    {
+        "question": "Dave knew what Albert was up to",
+        "answer": 0
+    },
+    {
+        "question": "Dave knows lucy is dead",
+        "answer": 0
+    },
+    {
+        "question": "Albert suspects lucy is dead",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Dave are safe",
+        "answer": 0
+    },
+    {
+        "question": "the waiter brings Albert the food he ordered",
+        "answer": 0
+    },
+    {
+        "question": "the waiter actually gave Albert seagull meat",
+        "answer": 0
+    },
+    {
+        "question": "the meat Albert eats is actually seagull",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Dave are not happy",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Dave are tired",
+        "answer": 0
+    },
+    {
+        "question": "everything was normal at the restaurant",
+        "answer": 0
+    },
+    {
+        "question": "the waiter did nothing suspicious",
+        "answer": 0
+    },
+    {
+        "question": "the meat the waiter brings is perfectly fine and is actually seagull",
+        "answer": 0
+    },
+    {
+        "question": "they go to the restaurant after being at the pier",
+        "answer": 0
+    },
+    {
+        "question": "they actually went to a restaurant",
+        "answer": 0
+    },
+    {
+        "question": "Albert takes a bite of the food he received",
+        "answer": 0
+    },
+    {
+        "question": "Albert suicide is linked to the seaull meat",
+        "answer": 0
+    },
+    {
+        "question": "the seagull meat is important to understand Albert and his act",
+        "answer": 0
+    },
+    {
+        "question": "Albert was tired",
+        "answer": 0
+    },
+    {
+        "question": "Dave was tired",
+        "answer": 0
+    },
+    {
+        "question": "lucy is dead",
+        "answer": 0
+    },
+    {
+        "question": "Albert kills himself",
+        "answer": 0
+    },
+    {
+        "question": "Albert suicides",
+        "answer": 0
+    },
+    {
+        "question": "Albert doesn't know lucy is dead",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Dave find themselves at a pier due to an upsetting incident",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Dave are in a state of sadness and shock",
+        "answer": 0
+    },
+    {
+        "question": "Albert suicided because of something that happened before he was at the pier",
+        "answer": 0
+    },
+    {
+        "question": "Albert did not suicide because of something that happened at the restaurant",
+        "answer": 0
+    },
+    {
+        "question": "Albert did not suicide because of something Dave did at the restaurant",
+        "answer": 0
+    },
+    {
+        "question": "what happened at the pier is not the reason of Albert's act",
+        "answer": 0
+    },
+    {
+        "question": "Dave did nothing at the pier that could cause Albert's suicide",
+        "answer": 0
+    },
+    {
+        "question": "the reason is to be found somewhere else",
+        "answer": 0
+    },
+    {
+        "question": "the meat was not poisoned",
+        "answer": 0
+    },
+    {
+        "question": "Albert planned to eat seagull",
+        "answer": 0
+    },
+    {
+        "question": "Dave was not surpirsed by Albert's suicide",
+        "answer": 0
+    },
+    {
+        "question": "people other than Dave were surprised by Albert's suicide",
+        "answer": 0
+    },
+    {
+        "question": "they got there by boat",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Dave have been saved by someone",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Dave were on an island",
+        "answer": 0
+    },
+    {
+        "question": "Albert killed himself because of a religious belief",
+        "answer": 2
+    },
+    {
+        "question": "the sesagull was poisoned",
+        "answer": 2
+    },
+    {
+        "question": "the seagull had gone bad",
+        "answer": 2
+    },
+    {
+        "question": "there was a religious reason behind Albert suicide",
+        "answer": 2
+    },
+    {
+        "question": "they decided to hang out by the pier",
+        "answer": 2
+    },
+    {
+        "question": "they were having fun",
+        "answer": 2
+    },
+    {
+        "question": "Albert knows lucy is dead",
+        "answer": 2
+    },
+    {
+        "question": "Albert changed his intentions at the restaurant",
+        "answer": 2
+    },
+    {
+        "question": "Albert suicided because of someone he met at the restaurant",
+        "answer": 2
+    },
+    {
+        "question": "the waiter is involved in Albert's suicide",
+        "answer": 2
+    },
+    {
+        "question": "someone at the restaurant is involved in Albert's suicide",
+        "answer": 2
+    },
+    {
+        "question": "Dave kills himself",
+        "answer": 2
+    },
+    {
+        "question": "the waiter kills himself",
+        "answer": 2
+    },
+    {
+        "question": "Dave has no idead about Albert's suicide",
+        "answer": 2
+    },
+    {
+        "question": "Albert ordered pasta",
+        "answer": 2
+    },
+    {
+        "question": "Albert and Dave were at the library",
+        "answer": 2
+    },
+    {
+        "question": "Dave was dead",
+        "answer": 2
+    },
+    {
+        "question": "Albert and Dave were at the pier because they were lost",
+        "answer": 2
+    },
+    {
+        "question": "Albert and Dave initially went shopping",
+        "answer": 2
+    },
+    {
+        "question": "Albert and Dave decided to hang out together, so they went to the pier",
+        "answer": 2
+    },
+    {
+        "question": "Albert did what he did because of something that happened at the pier",
+        "answer": 2
+    },
+    {
+        "question": "Albert suicided because of something Dave did at the restaurant",
+        "answer": 2
+    },
+    {
+        "question": "Albert suicided because of something the waiter did at the restaurant",
+        "answer": 2
+    },
+    {
+        "question": "Albert suicided because of something Dave did at the pier",
+        "answer": 2
+    },
+    {
+        "question": "the meat Albert ordered had something wrong",
+        "answer": 2
+    },
+    {
+        "question": "Albert suicided because he did not like the meat",
+        "answer": 2
+    },
+    {
+        "question": "they are happy and carefree",
+        "answer": 2
+    },
+    {
+        "question": "Albert's suicide was unexpected to Dave",
+        "answer": 2
+    },
+    {
+        "question": "Albert and Dave were at the pier for their summer break",
+        "answer": 2
+    },
+    {
+        "question": "Dave has no idea his friend would commit suicide",
+        "answer": 2
+    },
+    {
+        "question": "the seagull was poisoned with a special potion that makes anyone who eats it commit suicide",
+        "answer": 2
+    },
+    {
+        "question": "the seagull was raw and Albert was afraid he would become ill, so he suicided",
+        "answer": 2
+    },
+    {
+        "question": "Albert takes a swim in the beach",
+        "answer": 2
+    },
+    {
+        "question": "Albert found the idea to suicide when he was at the pier",
+        "answer": 2
+    },
+    {
+        "question": "Albert orders pizza",
+        "answer": 2
+    },
+    {
+        "question": "Albert orders pasta",
+        "answer": 2
+    },
+    {
+        "question": "the seagull had been poisoned",
+        "answer": 2
+    },
+    {
+        "question": "they got to the pier by car",
+        "answer": 2
+    },
+    {
+        "question": "they got to the pier cycling",
+        "answer": 2
+    },
+    {
+        "question": "Albert orders chicken",
+        "answer": 2
+    },
+    {
+        "question": "Albert had tasted seagull meat before",
+        "answer": 2
+    },
+    {
+        "question": "Albert always eats seagull meat when he goes to a restaurant",
+        "answer": 2
+    },
+    {
+        "question": "the sailor was evil",
+        "answer": 2
+    },
+    {
+        "question": "Albert and Dave are really happy",
+        "answer": 2
+    },
+    {
+        "question": "something is wrong with the seagull",
+        "answer": 2
+    },
+    {
+        "question": "Albert had no money to pay and kills himself because of that",
+        "answer": 2
+    },
+    {
+        "question": "something happened at the pier that made Albert suicide",
+        "answer": 2
+    },
+    {
+        "question": "they go to the pier with Albert's boat",
+        "answer": 2
+    },
+    {
+        "question": "there are only Albert and Dave at the pier",
+        "answer": 1
+    },
+    {
+        "question": "there are only Albert and Dave at the pier",
+        "answer": 1
+    },
+    {
+        "question": "Albert killed himself because eating the seagull made him realize something",
+        "answer": 1
+    },
+    {
+        "question": "they happened to be at the pier",
+        "answer": 1
+    },
+    {
+        "question": "something happened that made them be at the pier",
+        "answer": 1
+    },
+    {
+        "question": "they were shocked",
+        "answer": 1
+    },
+    {
+        "question": "they were sad",
+        "answer": 1
+    },
+    {
+        "question": "Dave knew Albert would commit suicide",
+        "answer": 1
+    },
+    {
+        "question": "Albert killed himself because he realized he had eaten lucy in the island",
+        "answer": 1
+    },
+    {
+        "question": "Albert planned to suicide",
+        "answer": 1
+    },
+    {
+        "question": "Dave knew what Albert was up to",
+        "answer": 1
+    },
+    {
+        "question": "Dave knows lucy is dead",
+        "answer": 1
+    },
+    {
+        "question": "Albert suspects lucy is dead",
+        "answer": 1
+    },
+    {
+        "question": "Albert and Dave are safe",
+        "answer": 1
+    },
+    {
+        "question": "the waiter brings Albert the food he ordered",
+        "answer": 1
+    },
+    {
+        "question": "the waiter actually gave Albert seagull meat",
+        "answer": 1
+    },
+    {
+        "question": "the meat Albert eats is actually seagull",
+        "answer": 1
+    },
+    {
+        "question": "Albert and Dave are not happy",
+        "answer": 1
+    },
+    {
+        "question": "Albert and Dave are tired",
+        "answer": 1
+    },
+    {
+        "question": "everything was normal at the restaurant",
+        "answer": 1
+    },
+    {
+        "question": "the waiter did nothing suspicious",
+        "answer": 1
+    },
+    {
+        "question": "the meat the waiter brings is perfectly fine and is actually seagull",
+        "answer": 1
+    },
+    {
+        "question": "they go to the restaurant after being at the pier",
+        "answer": 1
+    },
+    {
+        "question": "they actually went to a restaurant",
+        "answer": 1
+    },
+    {
+        "question": "Albert takes a bite of the food he received",
+        "answer": 1
+    },
+    {
+        "question": "Albert suicide is linked to the seaull meat",
+        "answer": 1
+    },
+    {
+        "question": "the seagull meat is important to understand Albert and his act",
+        "answer": 1
+    },
+    {
+        "question": "Albert was tired",
+        "answer": 1
+    },
+    {
+        "question": "Dave was tired",
+        "answer": 1
+    },
+    {
+        "question": "lucy is dead",
+        "answer": 1
+    },
+    {
+        "question": "Albert kills himself",
+        "answer": 1
+    },
+    {
+        "question": "Albert suicides",
+        "answer": 1
+    },
+    {
+        "question": "Albert doesn't know lucy is dead",
+        "answer": 1
+    },
+    {
+        "question": "Albert and Dave find themselves at a pier due to an upsetting incident",
+        "answer": 1
+    },
+    {
+        "question": "Albert and Dave are in a state of sadness and shock",
+        "answer": 1
+    },
+    {
+        "question": "Albert suicided because of something that happened before he was at the pier",
+        "answer": 1
+    },
+    {
+        "question": "Albert did not suicide because of something that happened at the restaurant",
+        "answer": 1
+    },
+    {
+        "question": "Albert did not suicide because of something Dave did at the restaurant",
+        "answer": 1
+    },
+    {
+        "question": "what happened at the pier is not the reason of Albert's act",
+        "answer": 1
+    },
+    {
+        "question": "Dave did nothing at the pier that could cause Albert's suicide",
+        "answer": 1
+    },
+    {
+        "question": "the reason is to be found somewhere else",
+        "answer": 1
+    },
+    {
+        "question": "the meat was not poisoned",
+        "answer": 1
+    },
+    {
+        "question": "Albert planned to eat seagull",
+        "answer": 1
+    },
+    {
+        "question": "Dave was not surpirsed by Albert's suicide",
+        "answer": 1
+    },
+    {
+        "question": "people other than Dave were surprised by Albert's suicide",
+        "answer": 1
+    },
+    {
+        "question": "they got there by boat",
+        "answer": 1
+    },
+    {
+        "question": "Albert and Dave have been saved by someone",
+        "answer": 1
+    },
+    {
+        "question": "Albert and Dave were on an island",
+        "answer": 1
+    },
+    {
+        "question": "the three of them were happy",
+        "answer": 0
+    },
+    {
+        "question": "something happened when they were in the boat",
+        "answer": 0
+    },
+    {
+        "question": "the sea is ferocious",
+        "answer": 0
+    },
+    {
+        "question": "Albert Dave and lucy are happy",
+        "answer": 0
+    },
+    {
+        "question": "an explosive thunderstorm is upon the boat",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Dave did not have any argument",
+        "answer": 0
+    },
+    {
+        "question": "Albert Dave and lucy did not have arguments",
+        "answer": 0
+    },
+    {
+        "question": "there are 3 people in the boat",
+        "answer": 0
+    },
+    {
+        "question": "there was someone else with Albert and Dave in the boat",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Dave are not alone in the boat",
+        "answer": 0
+    },
+    {
+        "question": "there are exactly 3 people in the boat and no one else",
+        "answer": 0
+    },
+    {
+        "question": "Albert Dave and lucy are having a great time",
+        "answer": 0
+    },
+    {
+        "question": "the storm happened unexpectedly",
+        "answer": 0
+    },
+    {
+        "question": "something happens",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Dave are alone",
+        "answer": 2
+    },
+    {
+        "question": "Albert and Dave had an argument",
+        "answer": 2
+    },
+    {
+        "question": "Albert Dave and lucy had an argument",
+        "answer": 2
+    },
+    {
+        "question": "Albert made lucy angry",
+        "answer": 2
+    },
+    {
+        "question": "Albert Dave and lucy all die after the storm",
+        "answer": 2
+    },
+    {
+        "question": "Albert Dave and lucy manage to get back to the pier",
+        "answer": 2
+    },
+    {
+        "question": "Albert and Dave engage in a deadly fight",
+        "answer": 2
+    },
+    {
+        "question": "pirates arrive and the three friends become their slaves",
+        "answer": 2
+    },
+    {
+        "question": "something happened and it was all because of Albert",
+        "answer": 2
+    },
+    {
+        "question": "what happened is all lucy's fault",
+        "answer": 2
+    },
+    {
+        "question": "Albert and lucy were having couple arguments",
+        "answer": 2
+    },
+    {
+        "question": "in the end, they were fighting",
+        "answer": 2
+    },
+    {
+        "question": "they all drowned",
+        "answer": 2
+    },
+    {
+        "question": "they were all upset",
+        "answer": 2
+    },
+    {
+        "question": "the three of them were happy",
+        "answer": 1
+    },
+    {
+        "question": "something happened when they were in the boat",
+        "answer": 1
+    },
+    {
+        "question": "the sea is ferocious",
+        "answer": 1
+    },
+    {
+        "question": "Albert Dave and lucy are happy",
+        "answer": 1
+    },
+    {
+        "question": "an explosive thunderstorm is upon the boat",
+        "answer": 1
+    },
+    {
+        "question": "Albert and Dave did not have any argument",
+        "answer": 1
+    },
+    {
+        "question": "Albert Dave and lucy did not have arguments",
+        "answer": 1
+    },
+    {
+        "question": "there are 3 people in the boat",
+        "answer": 1
+    },
+    {
+        "question": "there was someone else with Albert and Dave in the boat",
+        "answer": 1
+    },
+    {
+        "question": "Albert and Dave are not alone in the boat",
+        "answer": 1
+    },
+    {
+        "question": "there are exactly 3 people in the boat and no one else",
+        "answer": 1
+    },
+    {
+        "question": "Albert Dave and lucy are having a great time",
+        "answer": 1
+    },
+    {
+        "question": "the storm happened unexpectedly",
+        "answer": 1
+    },
+    {
+        "question": "something happens",
+        "answer": 1
+    },
+    {
+        "question": "they are starving",
+        "answer": 0
+    },
+    {
+        "question": "Dave knows he's eating lucy",
+        "answer": 0
+    },
+    {
+        "question": "Albert knows there's something suspicious",
+        "answer": 0
+    },
+    {
+        "question": "the sailor brings them back safely to the pier",
+        "answer": 0
+    },
+    {
+        "question": "they struggle to find something to eat",
+        "answer": 0
+    },
+    {
+        "question": "they struggle to find something to eat",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Dave are sad",
+        "answer": 0
+    },
+    {
+        "question": "Dave knows lucy is dead",
+        "answer": 0
+    },
+    {
+        "question": "they are hungry",
+        "answer": 0
+    },
+    {
+        "question": "they are not able to find much food and they are starving",
+        "answer": 0
+    },
+    {
+        "question": "lucy is dead",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Dave survive the shipwreck",
+        "answer": 0
+    },
+    {
+        "question": "lucy does not survive the shipwreck",
+        "answer": 0
+    },
+    {
+        "question": "someone that was in the ship did not make it",
+        "answer": 0
+    },
+    {
+        "question": "the island is deserted",
+        "answer": 0
+    },
+    {
+        "question": "Albert thinks he is eating seagull",
+        "answer": 0
+    },
+    {
+        "question": "Albert actually believes he is eating seagull",
+        "answer": 0
+    },
+    {
+        "question": "lucy did not make it out alive",
+        "answer": 0
+    },
+    {
+        "question": "lucy is sad on the island",
+        "answer": 2
+    },
+    {
+        "question": "all of them make it out alive",
+        "answer": 2
+    },
+    {
+        "question": "Albert knows he's eating lucy",
+        "answer": 2
+    },
+    {
+        "question": "the sailor is evil",
+        "answer": 2
+    },
+    {
+        "question": "the sailor tries to take advantage of them",
+        "answer": 2
+    },
+    {
+        "question": "they are fighting for their lives on the island",
+        "answer": 2
+    },
+    {
+        "question": "there is plenty of food on the island",
+        "answer": 2
+    },
+    {
+        "question": "there is a tribe on the island",
+        "answer": 2
+    },
+    {
+        "question": "Dave likes eating lucy",
+        "answer": 2
+    },
+    {
+        "question": "Albert knows lucy is dead",
+        "answer": 2
+    },
+    {
+        "question": "the three of them survive the shipwreck",
+        "answer": 2
+    },
+    {
+        "question": "all the people that were on the boat are now on the island",
+        "answer": 2
+    },
+    {
+        "question": "there are many dangerous and ferocious animals in the island",
+        "answer": 2
+    },
+    {
+        "question": "Dave tells Albert that he is eating lucy",
+        "answer": 2
+    },
+    {
+        "question": "Dave believes he is eating seagull",
+        "answer": 2
+    },
+    {
+        "question": "Albert is dead",
+        "answer": 2
+    },
+    {
+        "question": "Dave dies shortly after lucy",
+        "answer": 2
+    },
+    {
+        "question": "the sailor is killed by Albert, Dave's attempt to stop him was useless",
+        "answer": 2
+    },
+    {
+        "question": "they are starving",
+        "answer": 1
+    },
+    {
+        "question": "Dave knows he's eating lucy",
+        "answer": 1
+    },
+    {
+        "question": "Albert knows there's something suspicious",
+        "answer": 1
+    },
+    {
+        "question": "the sailor brings them back safely to the pier",
+        "answer": 1
+    },
+    {
+        "question": "they struggle to find something to eat",
+        "answer": 1
+    },
+    {
+        "question": "they struggle to find something to eat",
+        "answer": 1
+    },
+    {
+        "question": "Albert and Dave are sad",
+        "answer": 1
+    },
+    {
+        "question": "Dave knows lucy is dead",
+        "answer": 1
+    },
+    {
+        "question": "they are hungry",
+        "answer": 1
+    },
+    {
+        "question": "they are not able to find much food and they are starving",
+        "answer": 1
+    },
+    {
+        "question": "lucy is dead",
+        "answer": 1
+    },
+    {
+        "question": "Albert and Dave survive the shipwreck",
+        "answer": 1
+    },
+    {
+        "question": "lucy does not survive the shipwreck",
+        "answer": 1
+    },
+    {
+        "question": "someone that was in the ship did not make it",
+        "answer": 1
+    },
+    {
+        "question": "the island is deserted",
+        "answer": 1
+    },
+    {
+        "question": "Albert thinks he is eating seagull",
+        "answer": 1
+    },
+    {
+        "question": "Albert actually believes he is eating seagull",
+        "answer": 1
+    },
+    {
+        "question": "lucy did not make it out alive",
+        "answer": 1
+    },
+    {
+        "question": " Luckily, the island is devoid of dangerous animals, so they don't face immediate threats to their safety",
+        "answer": 0
+    },
+    {
+        "question": "Albert and Dave resort to unconventional food sources to sustain themselves.",
+        "answer": 0
+    },
+    {
+        "question": "Albert hesitantly continues to eat what he believes to be seagull meat",
+        "answer": 0
+    },
+    {
+        "question": "the sailor is a kind-hearted and genuine person",
+        "answer": 0
+    },
+    {
+        "question": "Albert remains unaware of Lucy's fate",
+        "answer": 0
+    },
+    {
+        "question": " Luckily, the island is devoid of dangerous animals, so they don't face immediate threats to their safety",
+        "answer": 1
+    }
+]
