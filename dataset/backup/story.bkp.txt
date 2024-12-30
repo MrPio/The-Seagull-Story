@@ -25,7 +25,7 @@ find themselves stranded on a remote island, facing the challenges of survival i
 """.replace("\n","")
 
 general_islandcontest="""
- Albert and Dave face the challenge of surviving with limited food resources, while lucy is already dead. 
+ Albert and Dave face the challenge of surviving with limited food resources, while Lucy is already dead.
  They resort to unconventional means to sustain themselves but manage to do so as they navigate 
  their newfound circumstances. One day, while exploring the island, Dave makes a heartbreaking discovery. He stumbles
  upon Lucy's lifeless body, a painful reminder of the tragic shipwreck. Dave is devastated, and the loss of 
@@ -47,7 +47,7 @@ Albert and Dave cast away on an island
 """.replace("\n","")
 
 final_discover="""
-Albert realized he ate lucy
+Albert realized he ate Lucy
 """.replace("\n","")
 
 
