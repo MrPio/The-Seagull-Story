@@ -85,3 +85,23 @@ Read more on  [BERT Variants and their Differences][4].
 [2]:https://www.geeksforgeeks.org/differences-between-gpt-and-bert/
 [3]:https://www.geeksforgeeks.org/explanation-of-bert-model-nlp
 [4]:https://360digitmg.com/blog/bert-variants-and-their-differences
+
+## Fine-tuning a fine-tuned model: nli-deberta-v3-base
+
+Choosing *DeBERTa* isn't enough. The vanilla *DeBERTa* model is [`microsoft/deberta-v3-base`](https://huggingface.co/microsoft/deberta-v3-base) and, much like *BERT*, it can be fine-tuned on different kinds of NLP tasks. However, all training using this model has been unsuccessful in our case. This is probably due to the limited size and quality of our training set.
+
+A better approach was to fine-tune a model more specialized to the NLI task. [`cross-encoder/nli-deberta-v3-base`](https://huggingface.co/cross-encoder/nli-deberta-v3-base) is the result of fine-tuning the original *DeBERTa* model to *SNLI* and *MultiNLI*, which are the state-of-the-art data sets in the NLI task.
+
+### Writing the story
+
+As we discussed in the previous section, each input to the model will be structured as follows.
+
+$$\text{\textbf{input}} = [\text{\texttt{[CLS]}} | \text{\textbf{story}} | \texttt{[SEP]} | \text{\textbf{question}} | \text{\texttt{[SEP]}}]$$
+
+
+
+### The structure of the data set
+
+Starting from the data set of [SeagullStory](https://github.com/manuu1311/SeagullStory) by [@manuu1311](https://github.com/manuu1311), we extracted all the questions stored in the different `.json` files, cleaned them up and organized them into three different `.txt` files, each containing the list of questions of one of the three classes, separated by a new line. Up to this point we had about 150 samples for each class.
+
+We further enriched the dataset by manually adding samples until we reached $250$ samples for each class. Then, as a data enrichment strategy, we asked the `gpt-4o` and `gemini-2.0-flash-exp` LLMs to provide more samples based on the story. This gave us $650$ samples per class, for a total of $1.950$ samples, unfortunately with a small percentage of duplicates that we left **to avoid class imbalance**.
