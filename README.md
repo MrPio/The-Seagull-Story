@@ -1,5 +1,4 @@
 # The Seagull Story
-A BERT-like transformer is used to solve an NLI task. The model is asked yes/no questions and has to answer "yes," "no," or "irrelevant" based on a given story.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8577c40e-a4be-4ced-ba8f-7601d56fa77c" width="275rem"/>
@@ -93,15 +92,30 @@ Choosing *DeBERTa* isn't enough. The vanilla *DeBERTa* model is [`microsoft/debe
 A better approach was to fine-tune a model more specialized to the NLI task. [`cross-encoder/nli-deberta-v3-base`](https://huggingface.co/cross-encoder/nli-deberta-v3-base) is the result of fine-tuning the original *DeBERTa* model to *SNLI* and *MultiNLI*, which are the state-of-the-art data sets in the NLI task.
 
 ### Writing the story
-
 As we discussed in the previous section, each input to the model will be structured as follows.
 
 $$\text{\textbf{input}} = [\text{\texttt{[CLS]}} | \text{\textbf{story}} | \texttt{[SEP]} | \text{\textbf{question}} | \text{\texttt{[SEP]}}]$$
 
+Thus, each question is tokenized along with the entire story at each inference.
+
+#### The problem of dealing with multiple contexts
+The story is subdivided into 4 distinct phases:
+- *The boat voyage.* Albert, Dave and Lucy enjoying their boating vacation.
+- *The desert island.* A shipwreck has caused Lucy's death. Albert and Dave struggle to survive on a deserted island with no food sources.
+- *The rescue.* A passing sailor sees Albert and Dave and rescues them from the island.
+- *The pier.*  Albert insists on going to the restaurant, orders seagull meat and shoots himself.
+
+The problem arises when the user asks a question whose answer depends on the phase. For instance, if the user says "Albert wants to kill himself", the answer is `yes` in the last context, but not in the previous ones.
+
+[@manuu1311](https://github.com/manuu1311)'s strategy to overcome this problem is to allow the user to choose between multiple contexts before asking a question.
+
+We took a different approach: we avoided asking the user to specify a context, instead trusting him to clearly specify the point in time to which he is referring in his question. This choice is reflected in the dataset, each sentence specify the period of the story, such as "On the island..." or "At the restaurant...". Since the context is a constant, this also allowed us to structure the data set as a simple list of sentences, rather than a `.json` file with a mostly redundant *context* field for each sample.
+
+#### Choosing the right context size
+Interpolation vs. Initialization
 
 
 ### The structure of the data set
-
 Starting from the data set of [SeagullStory](https://github.com/manuu1311/SeagullStory) by [@manuu1311](https://github.com/manuu1311), we extracted all the questions stored in the different `.json` files, cleaned them up and organized them into three different `.txt` files, each containing the list of questions of one of the three classes, separated by a new line. Up to this point we had about 150 samples for each class.
 
 We further enriched the dataset by manually adding samples until we reached $250$ samples for each class. Then, as a data enrichment strategy, we asked the `gpt-4o` and `gemini-2.0-flash-exp` LLMs to provide more samples based on the story. This gave us $650$ samples per class, for a total of $1.950$ samples, unfortunately with a small percentage of duplicates that we left **to avoid class imbalance**.
