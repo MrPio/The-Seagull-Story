@@ -164,7 +164,7 @@ Since the test set is not completely independent of the training set due to the 
 </p>
 
 #### Enhancing the performance
-The model can be further refined with a lower learning rater to account for questions that are still answered incorrectly. This is left for future work. However, the reader should note that in order to mitigate the effect of catastrophic forgetting, an inherent problem of MLP networks, samples from the original datasets should be considered along with the new ones.
+The model can be further refined with a lower learning rater to account for questions that are still answered incorrectly. This is left for future work. However, the reader should note that in order to mitigate the effect of *catastrophic forgetting*, an inherent problem of MLP networks, samples from the original datasets should be considered along with the new ones.
 
 ### Deployment
 Finally, the model was [uploaded to HuggingFace](https://huggingface.co/MrPio/TheSeagullStory-nli-deberta-v3-base) and [deployed to a dedicated Space using Gradio SDK](https://huggingface.co/spaces/MrPio/TheSeagullStory).
