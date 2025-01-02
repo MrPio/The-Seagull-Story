@@ -145,14 +145,26 @@ We further enriched the dataset by manually adding samples until we reached $250
 Using the handy `TrainingArguments`, `Trainer` classes from the `transformers` library, which leverage *Keras* to expose a high-level interface for training, the `cross-encoder/nli-deberta-v3-base` has been trained for $6$ epochs, with a batch size of $8$ and learning rate of $2\times 10^{-5}$. 
 
 #### The results
-The results are shown below.
+The training took **4 hours and 34 minutes** on a *GeForce RTX 3070 Laptop* GPU, having 8GB of dedicated VRAM. The results of the training are shown below.
 
 <p align="center">
-  <img src="img/training_results_table.png" width="450rem" alt=""/>
+  <img src="img/training_results_table.png" width="400rem" alt=""/>
 </p>
 
 The graph below shows that the best epoch is the 4th.
 
 <p align="center">
-  <img src="img/training_results_plot.png" width="750rem" alt=""/>
+  <img src="img/training_results_plot.png" width="700rem" alt=""/>
 </p>
+
+Since the test set is not completely independent of the training set due to the slight redundancy in the data set, a final set was run with completely new samples. The model correctly guesses 27 out of 31 questions, as can be seen below.
+
+<p align="center">
+  <img src="img/final_test.png" width="625rem" alt=""/>
+</p>
+
+#### Enhancing the performance
+The model can be further refined with a lower learning rater to account for questions that are still answered incorrectly. This is left for future work. However, the reader should note that in order to mitigate the effect of catastrophic forgetting, an inherent problem of MLP networks, samples from the original datasets should be considered along with the new ones.
+
+### Deployment
+Finally, the model was [uploaded to HuggingFace](https://huggingface.co/MrPio/TheSeagullStory-nli-deberta-v3-base) and [deployed to a dedicated Space using Gradio SDK](https://huggingface.co/spaces/MrPio/TheSeagullStory).
