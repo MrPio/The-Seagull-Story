@@ -122,7 +122,7 @@ In the original *DeBERTa* model, the context size, i.e. the maximum number of to
 
 The embeddings can be expanded using *interpolation* or *initialization* techniques. Interpolation is useful for smooth expansion. Alternatively, the new embeddings can be randomly initialized. Either way, after the embeddings are extended, the model needs to be fine-tuned for subsequent tasks.
 
-We managed to fit the whole story into less than $512$ tokens, $427$ tokens. That leaves $82$ tokens for the question, taking into account the `[CLS]` and the two `[SEP]` tokens. Considering the size of $128.001$ tokens of the vocabulary used by the tokenizer of DeBERTa, $82$ tokens gives enough space to encode any question.
+We managed to fit the whole story, stored in [`story.txt`](/dataset/story.txt), into less than $512$ tokens, $427$ tokens. That leaves $82$ tokens for the question, taking into account the `[CLS]` and the two `[SEP]` tokens. Considering the size of $128.001$ tokens of the vocabulary used by the tokenizer of DeBERTa, $82$ tokens gives enough space to encode any question.
 
 Therefore, we avoided expanding the context size and thus hindering the model's performance. The overall tokenization is structured as shown in the figure below.
 
@@ -137,7 +137,7 @@ Read more on  [BPE tokenizers and spaces before words][5].
 [5]:https://discuss.huggingface.co/t/bpe-tokenizers-and-spaces-before-words/475
 
 ### The structure of the data set
-Starting from the data set of [SeagullStory](https://github.com/manuu1311/SeagullStory) by [@manuu1311](https://github.com/manuu1311), we extracted all the questions stored in the different `.json` files, cleaned them up and organized them into three different `.txt` files, each containing the list of questions of one of the three classes, separated by a new line. Up to this point we had about 150 samples for each class.
+Starting from the data set of [SeagullStory](https://github.com/manuu1311/SeagullStory) by [@manuu1311](https://github.com/manuu1311), we extracted all the questions stored in the different `.json` files, cleaned them up and organized them into three different `.txt` files, namely [`yes.txt`](dataset/yes.txt), [`irrelevant.txt`](dataset/irrelevant.txt) and [`no.txt`](dataset/no.txt), each containing the list of questions of one of the three classes, separated by a new line. Up to this point we had about 150 samples for each class.
 
 We further enriched the dataset by manually adding samples until we reached $250$ samples for each class. Then, as a data enrichment strategy, we asked the `gpt-4o` and `gemini-2.0-flash-exp` LLMs to provide more samples based on the story. This gave us $650$ samples per class, for a total of $1.950$ samples, unfortunately with a small percentage of duplicates that we left **to avoid class imbalance**. These $1.950$ samples are randomly shuffled and the $10\%$ of them are chosen as the test set.
 
@@ -165,6 +165,8 @@ Since the test set is not completely independent of the training set due to the 
 
 #### Enhancing the performance
 The model can be further refined with a lower learning rater to account for questions that are still answered incorrectly. This is left for future work. However, the reader should note that in order to mitigate the effect of *catastrophic forgetting*, an inherent problem of MLP networks, samples from the original datasets should be considered along with the new ones.
+
+Another thing we could do is start over with the model [`cross-encoder/nli-deberta-v3-large`](https://huggingface.co/cross-encoder/nli-deberta-v3-large), which has 435 million of parameters, $2.36$ times more than [`cross-encoder/nli-deberta-v3-base`](https://huggingface.co/cross-encoder/nli-deberta-v3-base).
 
 ### Deployment
 Finally, the model was [uploaded to HuggingFace](https://huggingface.co/MrPio/TheSeagullStory-nli-deberta-v3-base) and [deployed to a dedicated Space using Gradio SDK](https://huggingface.co/spaces/MrPio/TheSeagullStory).
