@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8577c40e-a4be-4ced-ba8f-7601d56fa77c" width="275rem"/>
-  </p>
+  <img src="https://github.com/user-attachments/assets/8577c40e-a4be-4ced-ba8f-7601d56fa77c" width="275rem" alt=""/>
+</p>
 
 Based on the idea and data set of [SeagullStory](https://github.com/manuu1311/SeagullStory) by [@manuu1311](https://github.com/manuu1311)
 
@@ -118,10 +118,41 @@ The problem arises when the user asks a question whose answer depends on the pha
 We took a different approach: we avoided asking the user to specify a context, instead trusting him to clearly specify the point in time to which he is referring in his question. This choice is reflected in the dataset, each sentence specify the period of the story, such as "On the island..." or "At the restaurant...". Since the context is a constant, this also allowed us to structure the data set as a simple list of sentences, rather than a `.json` file with a mostly redundant *context* field for each sample.
 
 #### Choosing the right context size
-Interpolation vs. Initialization
+In the original *DeBERTa* model, the context size, i.e. the maximum number of tokens an inference pass can handle in each of its inputs, is $512$. This number depends on the *positional embeddings*. As we discussed earlier, one of the three embedding components in BERT models encodes the position of the tokens to account for their location within the sentence.
 
+The embeddings can be expanded using *interpolation* or *initialization* techniques. Interpolation is useful for smooth expansion. Alternatively, the new embeddings can be randomly initialized. Either way, after the embeddings are extended, the model needs to be fine-tuned for subsequent tasks.
+
+We managed to fit the whole story into less than $512$ tokens, $427$ tokens. That leaves $82$ tokens for the question, taking into account the `[CLS]` and the two `[SEP]` tokens. Considering the size of $128.001$ tokens of the vocabulary used by the tokenizer of DeBERTa, $82$ tokens gives enough space to encode any question.
+
+Therefore, we avoided expanding the context size and thus hindering the model's performance. The overall tokenization is structured as shown in the figure below.
+
+<p align="center">
+  <img src="img/embedding.png" width="400rem" alt=""/>
+</p>
+
+In the *GPT2* and *RoBERTa* tokenizers, the space before a word is part of the word. The *Ġ* symbol is a convention to indicate that space. *DeBERTa* also adopts this convention, since it is a specialized version of *RoBERTa*.
+
+Read more on  [BPE tokenizers and spaces before words][5].
+
+[5]:https://discuss.huggingface.co/t/bpe-tokenizers-and-spaces-before-words/475
 
 ### The structure of the data set
 Starting from the data set of [SeagullStory](https://github.com/manuu1311/SeagullStory) by [@manuu1311](https://github.com/manuu1311), we extracted all the questions stored in the different `.json` files, cleaned them up and organized them into three different `.txt` files, each containing the list of questions of one of the three classes, separated by a new line. Up to this point we had about 150 samples for each class.
 
-We further enriched the dataset by manually adding samples until we reached $250$ samples for each class. Then, as a data enrichment strategy, we asked the `gpt-4o` and `gemini-2.0-flash-exp` LLMs to provide more samples based on the story. This gave us $650$ samples per class, for a total of $1.950$ samples, unfortunately with a small percentage of duplicates that we left **to avoid class imbalance**.
+We further enriched the dataset by manually adding samples until we reached $250$ samples for each class. Then, as a data enrichment strategy, we asked the `gpt-4o` and `gemini-2.0-flash-exp` LLMs to provide more samples based on the story. This gave us $650$ samples per class, for a total of $1.950$ samples, unfortunately with a small percentage of duplicates that we left **to avoid class imbalance**. These $1.950$ samples are randomly shuffled and the $10\%$ of them are chosen as the test set.
+
+### Fine-tuning the model
+Using the handy `TrainingArguments`, `Trainer` classes from the `transformers` library, which leverage *Keras* to expose a high-level interface for training, the `cross-encoder/nli-deberta-v3-base` has been trained for $6$ epochs, with a batch size of $8$ and learning rate of $2\times 10^{-5}$. 
+
+#### The results
+The results are shown below.
+
+<p align="center">
+  <img src="img/training_results_table.png" width="450rem" alt=""/>
+</p>
+
+The graph below shows that the best epoch is the 4th.
+
+<p align="center">
+  <img src="img/training_results_plot.png" width="750rem" alt=""/>
+</p>
