@@ -173,3 +173,5 @@ Another thing we could do is start over with the model [`cross-encoder/nli-deber
 
 ### Deployment
 Finally, the model was [uploaded to HuggingFace](https://huggingface.co/MrPio/TheSeagullStory-nli-deberta-v3-base) and [deployed to a dedicated Space using Gradio SDK](https://huggingface.co/spaces/MrPio/TheSeagullStory).
+
+Moreover, the `cross-encoder/nli-deberta-v3-base` model has an excessive floating-point precision of 32 bits. We used PyTorch’s `half()` function to convert the parameters to 16 bits before deployment, and thus halve the size down to 369Mb.
