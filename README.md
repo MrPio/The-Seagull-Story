@@ -5,8 +5,7 @@
   <img src="https://github.com/user-attachments/assets/8577c40e-a4be-4ced-ba8f-7601d56fa77c" width="275rem" alt=""/>
 </p>
 
-### [📙 Read the thesis `[PDF]`.](https://github.com/user-attachments/files/18299090/The_Seagull_Story.pdf)
-
+### [📙 Read the thesis `[PDF]`.](https://github.com/user-attachments/files/18323736/The_Seagull_Story-1.pdf)
 
 Based on the idea and data set of [SeagullStory](https://github.com/manuu1311/SeagullStory) by [@manuu1311](https://github.com/manuu1311)
 
