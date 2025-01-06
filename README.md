@@ -14,7 +14,7 @@ In this project, we aim to fine-tune a BERT-like transformer to solve a Natural 
 
 ### [🙂 Hugging Face model.](https://huggingface.co/MrPio/TheSeagullStory-nli-deberta-v3-base)
 
-### [⚡ Now deployed with Gradio.](https://huggingface.co/spaces/MrPio/TheSeagullStory)
+### [⚡ Now deployed with Gradio.](https://huggingface.co/spaces/MrPio/TheSeagullStory) Help improve the model by providing feedback on incorrect predictions!
 
 
 ## The NLI task
@@ -173,5 +173,40 @@ Another thing we could do is start over with the model [`cross-encoder/nli-deber
 
 ### Deployment
 Finally, the model was [uploaded to HuggingFace](https://huggingface.co/MrPio/TheSeagullStory-nli-deberta-v3-base) and [deployed to a dedicated Space using Gradio SDK](https://huggingface.co/spaces/MrPio/TheSeagullStory).
+Using Gradio SDK, **a flagging system has been implemented** to allow users to extend the dataset with incorrectly predicted questions.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b3ea4f03-42ca-423a-9682-77083163610e" width="900rem" alt=""/>
+</p>
+
+Since HuggingFace's Spaces service's free plan doesn't include persistent storage, we rely on [*Firebase Firestore*](https://firebase.google.com/docs/firestore) to store users' feedback. The credentials are not exposed in the code, but injected through the apposite "secrets" setting provided by HuggingFace. Therefore, the script running inside a Docker container retrieves the Firestore's private key from the environment variables.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/07a13b38-7774-443e-8c91-284823598ea6" width="725rem" alt=""/>
+</p>
+
+This is achieved by employing the following custom implementation of the abstract `FlaggingCallback` class. The entire code can be seen at [`app.py`](https://huggingface.co/spaces/MrPio/TheSeagullStory/blob/main/app.py).
+
+```python
+class Flagger(FlaggingCallback):
+    def __init__(self):
+        self.base_logger = CSVLogger()
+        self.flags_collection = db.collection(".../seagull_story_flags")
+
+    def setup(self, components: Sequence[Component], flagging_dir: str):
+        self.base_logger.setup(components=components, flagging_dir=flagging_dir)
+
+    def flag(self, flag_data: list[Any], flag_option: str | None = None, username: str | None = None) -> int:
+        if len(flag_data[0]) > 3 and 'confidences' in flag_data[1]:
+            self.flags_collection.document(str(time.time_ns())).set({
+                "question": flag_data[0],
+                "prediction": flag_data[1]['label'],
+                "confidences": flag_data[1]['confidences'],
+                "flag": flag_option,
+                "timestamp": datetime.now(pytz.utc),
+                "username": username,
+            })
+        return self.base_logger.flag(flag_data=flag_data, flag_option=flag_option, username=username)
+```
 
 Moreover, the `cross-encoder/nli-deberta-v3-base` model has an excessive floating-point precision of 32 bits. We used PyTorch’s `half()` function to convert the parameters to 16 bits before deployment, and thus halve the size down to 369Mb.
